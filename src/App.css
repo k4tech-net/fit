@@ -160,7 +160,7 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  right: 0;
+  width: 100%;
   height: 2px;
   background: linear-gradient(90deg, var(--accent-primary), var(--accent-secondary));
 }
@@ -210,6 +210,7 @@ body {
   min-height: 120px;
   transition: all 0.3s ease;
   position: relative;
+  isolation: isolate;
 }
 
 .calendar-day.empty {
@@ -243,6 +244,10 @@ body {
   z-index: 1;
 }
 
+.day-of-week {
+  display: none;
+}
+
 .day-activities {
   display: flex;
   flex-direction: column;
@@ -263,6 +268,8 @@ body {
   position: relative;
   z-index: 1;
   overflow: hidden;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
 }
 
 .activity-slot.has-activity {
@@ -281,16 +288,32 @@ body {
   background: linear-gradient(90deg, transparent, rgba(0, 212, 255, 0.2), transparent);
   transition: left 0.5s;
   z-index: -1;
+  pointer-events: none;
 }
 
 .activity-slot.has-activity:hover::before {
   left: 100%;
 }
 
+.activity-slot.has-activity:active::before {
+  display: none;
+}
+
 .activity-slot.has-activity:hover {
   border-color: var(--accent-primary);
   box-shadow: 0 0 10px rgba(0, 212, 255, 0.2);
   transform: translateY(-2px);
+}
+
+.activity-slot.has-activity:active,
+.activity-slot.has-activity:focus {
+  outline: none;
+}
+
+.activity-slot.has-activity:active {
+  transform: none;
+  box-shadow: none;
+  border-color: var(--border-color);
 }
 
 .time-badge {
@@ -338,11 +361,14 @@ body {
   }
 
   .calendar-controls {
-    flex-direction: column;
+    flex-wrap: wrap;
   }
 
   .month-display {
+    width: 100%;
     order: -1;
+    margin-bottom: 1rem;
+    justify-content: center;
   }
 
   .month-display h2 {
@@ -353,34 +379,81 @@ body {
     flex: 1;
   }
 
+  /* Hide day name headers on mobile */
+  .calendar-header {
+    display: none;
+  }
+
+  /* Switch to vertical list layout */
   .calendar-grid {
-    gap: 0.3rem;
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+  }
+
+  .calendar-day.empty {
+    display: none;
   }
 
   .calendar-day {
-    min-height: 90px;
-    padding: 0.3rem;
-  }
-
-  .day-name {
-    padding: 0.5rem;
-    font-size: 0.75rem;
+    min-height: auto;
+    padding: 0.75rem;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 1rem;
+    align-items: start;
   }
 
   .day-number {
-    font-size: 0.8rem;
+    font-size: 1.5rem;
+    margin-bottom: 0;
+    width: 4rem;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.25rem;
+    padding: 0.5rem;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: 0;
+  }
+
+  .day-number {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+
+  .day-num {
+    font-size: 1.5rem;
+    line-height: 1;
+  }
+
+  .day-of-week {
+    display: block;
+    font-size: 0.7rem;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  .day-activities {
+    flex: 1;
+    gap: 0.5rem;
   }
 
   .activity-slot {
-    padding: 0.4rem;
-    min-height: 30px;
+    padding: 0.75rem;
+    min-height: 50px;
   }
 
   .time-badge {
-    font-size: 0.65rem;
+    font-size: 0.7rem;
   }
 
   .activity-name {
-    font-size: 0.7rem;
+    font-size: 0.85rem;
   }
 }

@@ -33,3 +33,9 @@ export const isToday = (year: number, month: number, day: number): boolean => {
     today.getDate() === day
   );
 };
+
+export const getDayOfWeek = (year: number, month: number, day: number): string => {
+  const dayNames = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+  const date = new Date(year, month, day);
+  return dayNames[date.getDay()];
+};

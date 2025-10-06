@@ -17,6 +17,18 @@ const ActivityModal = ({ activity, onClose }: ActivityModalProps) => {
   const targetColor = getActivityColor(activity.target, activity.type);
   const typeColor = getActivityColorByType(activity.type);
 
+  const handleGmailClick = () => {
+    const emailAddress = 'fit@k4tech.net';
+    const gmailUrl = `https://mail.google.com/mail/?view=cm&fs=1&to=${encodeURIComponent(emailAddress)}&su=${encodeURIComponent(emailSubject)}&body=${encodeURIComponent(emailBody)}`;
+    window.open(gmailUrl, '_blank');
+  };
+
+  const handleOutlookClick = () => {
+    const emailAddress = 'fit@k4tech.net';
+    const outlookUrl = `https://outlook.live.com/mail/0/deeplink/compose?to=${encodeURIComponent(emailAddress)}&subject=${encodeURIComponent(emailSubject)}&body=${encodeURIComponent(emailBody)}`;
+    window.open(outlookUrl, '_blank');
+  };
+
   return (
     <div className="modal-overlay" onClick={onClose}>
       <div
@@ -45,16 +57,34 @@ const ActivityModal = ({ activity, onClose }: ActivityModalProps) => {
             <p><strong style={{ color: targetColor.text }}>Details:</strong> {activity.description}</p>
           )}
         </div>
-        <a
-          href={mailtoLink}
-          className="contact-button"
-          style={{
-            background: `linear-gradient(135deg, ${targetColor.border}, ${typeColor.border})`,
-            borderColor: targetColor.border
-          }}
-        >
-          Contact to Join
-        </a>
+        <div className="email-buttons">
+          <a
+            href={mailtoLink}
+            className="contact-button primary-contact"
+            style={{
+              background: `linear-gradient(135deg, ${targetColor.border}, ${typeColor.border})`,
+              borderColor: targetColor.border
+            }}
+          >
+            Contact to Join
+          </a>
+          <div className="email-alternatives">
+            <span className="email-label">Or use:</span>
+            <button
+              className="email-link"
+              onClick={handleGmailClick}
+            >
+              Gmail
+            </button>
+            <span className="email-separator">|</span>
+            <button
+              className="email-link"
+              onClick={handleOutlookClick}
+            >
+              Outlook
+            </button>
+          </div>
+        </div>
       </div>
     </div>
   );

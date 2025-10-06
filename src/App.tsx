@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import './App.css';
 import type { Activity } from './types';
 import ActivityModal from './components/ActivityModal';
-import { getDaysInMonth, getFirstDayOfMonth, getMonthName, formatDate, isToday } from './utils/calendar';
+import { getDaysInMonth, getFirstDayOfMonth, getMonthName, formatDate, isToday, getDayOfWeek } from './utils/calendar';
 import { getActivityColor, getActivityColorByType } from './utils/activityColors';
 
 const App = () => {
@@ -51,6 +51,13 @@ const App = () => {
 
   const goToToday = () => {
     setCurrentDate(new Date());
+    // Scroll to today's date on mobile
+    setTimeout(() => {
+      const todayElement = document.querySelector('.calendar-day.today');
+      if (todayElement) {
+        todayElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    }, 100);
   };
 
   const daysInMonth = getDaysInMonth(currentYear, currentMonth);
@@ -113,6 +120,7 @@ const App = () => {
             const dateStr = formatDate(currentYear, currentMonth, day);
             const dayActivities = getActivitiesForDate(dateStr);
             const isTodayCell = isToday(currentYear, currentMonth, day);
+            const dayOfWeek = getDayOfWeek(currentYear, currentMonth, day);
 
             const amTargetColor = dayActivities.am ? getActivityColor(dayActivities.am.target, dayActivities.am.type) : null;
             const amTypeColor = dayActivities.am ? getActivityColorByType(dayActivities.am.type) : null;
@@ -121,7 +129,10 @@ const App = () => {
 
             return (
               <div key={day} className={`calendar-day ${isTodayCell ? 'today' : ''}`}>
-                <div className="day-number">{day}</div>
+                <div className="day-number">
+                  <span className="day-num">{day}</span>
+                  <span className="day-of-week">{dayOfWeek}</span>
+                </div>
                 <div className="day-activities">
                   <div
                     className={`activity-slot am ${dayActivities.am ? 'has-activity' : ''}`}
