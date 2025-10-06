@@ -195,3 +195,66 @@
 .email-separator {
   color: var(--text-muted);
 }
+
+.exercises-section {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border-color);
+}
+
+.exercises-section h3 {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  color: var(--accent-primary);
+}
+
+.exercises-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.exercise-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0.5rem 0.75rem;
+  background: var(--bg-tertiary);
+  border-left: 2px solid var(--border-color);
+  transition: all 0.2s ease;
+}
+
+.exercise-item:hover {
+  border-left-color: var(--accent-primary);
+  background: var(--bg-hover);
+}
+
+.exercise-name {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.9rem;
+  color: var(--text-primary);
+  font-weight: 500;
+  flex: 1;
+}
+
+.exercise-stats {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  white-space: nowrap;
+  margin-left: 1rem;
+}
+
+@media (max-width: 600px) {
+  .exercise-item {
+    flex-direction: column;
+    gap: 0.25rem;
+    align-items: flex-start;
+  }
+
+  .exercise-stats {
+    margin-left: 0;
+    font-size: 0.8rem;
+  }
+}

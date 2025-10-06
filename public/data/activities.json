@@ -15,7 +15,45 @@
     "time": "PM",
     "date": "2025-10-06",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Back Squat",
+        "warmupSets": 3,
+        "sets": 4,
+        "reps": "4"
+      },
+      {
+        "name": "Dumbbell Incline Press",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Lying Leg Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Pronated Pulldown",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Supinated Ez Bar Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15/15"
+      },
+      {
+        "name": "Hanging Leg Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "tue-am-1",
@@ -33,7 +71,51 @@
     "time": "PM",
     "date": "2025-10-07",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Barbell Bench Press",
+        "warmupSets": 3,
+        "sets": 3,
+        "reps": "3"
+      },
+      {
+        "name": "Low To High Cable Flye",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Barbell Hip Thrust Or Rdl",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "12"
+      },
+      {
+        "name": "Chest-Supported T-Bar Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Arnold Press",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Tricep Pressdown",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Hex Bar Or Smith Machine Shrug",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "wed-am-1",
@@ -51,7 +133,21 @@
     "time": "PM",
     "date": "2025-10-08",
     "target": "Cardio",
-    "type": "Endurance"
+    "type": "Endurance",
+    "exercises": [
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "thu-am-1",
@@ -69,7 +165,45 @@
     "time": "PM",
     "date": "2025-10-09",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Weighted Pull-Up",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "6"
+      },
+      {
+        "name": "Humble Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Leg Press",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "8"
+      },
+      {
+        "name": "Cable Rope Upright Row",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Hammer Curl",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "8"
+      }
+    ]
   },
   {
     "id": "fri-am-1",
@@ -78,7 +212,57 @@
     "time": "AM",
     "date": "2025-10-10",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Deadlift",
+        "warmupSets": 3,
+        "sets": 4,
+        "reps": "2"
+      },
+      {
+        "name": "Dip",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Glute Ham Raise",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Leg Extension",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Cable Pull-Over",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Rope Face Pull",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Ez Bar Skull Crusher",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      }
+    ]
   },
   {
     "id": "sat-pm-1",
@@ -87,7 +271,27 @@
     "time": "PM",
     "date": "2025-10-11",
     "target": "Cardio",
-    "type": "Sport"
+    "type": "Sport",
+    "exercises": [
+      {
+        "name": "Mixed Heavy Bag Work",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "40min"
+      },
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "sun-pm-1",
@@ -96,7 +300,57 @@
     "time": "PM",
     "date": "2025-10-12",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Overhead Press",
+        "warmupSets": 3,
+        "sets": 4,
+        "reps": "6"
+      },
+      {
+        "name": "Egyptian Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Cable Seated Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      },
+      {
+        "name": "Seated Hip Abduction",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Incline Dumbbell Curl",
+        "warmupSets": 1,
+        "sets": 2,
+        "reps": "10"
+      },
+      {
+        "name": "Bicycle Crunch",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Push Up",
+        "warmupSets": 0,
+        "sets": 2,
+        "reps": "RPE only"
+      }
+    ]
   },
   {
     "id": "mon-am-2",
@@ -114,7 +368,45 @@
     "time": "PM",
     "date": "2025-10-13",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Back Squat",
+        "warmupSets": 3,
+        "sets": 3,
+        "reps": "6"
+      },
+      {
+        "name": "Dumbbell Incline Press",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Lying Leg Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Pronated Pulldown",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Supinated Ez Bar Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15/15"
+      },
+      {
+        "name": "Hanging Leg Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "tue-am-2",
@@ -132,7 +424,51 @@
     "time": "PM",
     "date": "2025-10-14",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Barbell Bench Press",
+        "warmupSets": 3,
+        "sets": 3,
+        "reps": "5"
+      },
+      {
+        "name": "Low To High Cable Flye",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Barbell Hip Thrust Or Rdl",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "12"
+      },
+      {
+        "name": "Chest-Supported T-Bar Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Arnold Press",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Tricep Pressdown",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Hex Bar Or Smith Machine Shrug",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "wed-am-2",
@@ -150,7 +486,21 @@
     "time": "PM",
     "date": "2025-10-15",
     "target": "Cardio",
-    "type": "Endurance"
+    "type": "Endurance",
+    "exercises": [
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "thu-am-2",
@@ -168,7 +518,45 @@
     "time": "PM",
     "date": "2025-10-16",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Weighted Pull-Up",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "6"
+      },
+      {
+        "name": "Humble Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Leg Press",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "8"
+      },
+      {
+        "name": "Cable Rope Upright Row",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Hammer Curl",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "8"
+      }
+    ]
   },
   {
     "id": "fri-am-2",
@@ -177,7 +565,57 @@
     "time": "AM",
     "date": "2025-10-17",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Reset Deadlift",
+        "warmupSets": 3,
+        "sets": 3,
+        "reps": "5"
+      },
+      {
+        "name": "Dip",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Glute Ham Raise",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Leg Extension",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Cable Pull-Over",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Rope Face Pull",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Ez Bar Skull Crusher",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      }
+    ]
   },
   {
     "id": "sat-pm-2",
@@ -186,7 +624,27 @@
     "time": "PM",
     "date": "2025-10-18",
     "target": "Cardio",
-    "type": "Sport"
+    "type": "Sport",
+    "exercises": [
+      {
+        "name": "Mixed Heavy Bag Work",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "40min"
+      },
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "sun-pm-2",
@@ -195,7 +653,57 @@
     "time": "PM",
     "date": "2025-10-19",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Overhead Press",
+        "warmupSets": 3,
+        "sets": 4,
+        "reps": "10"
+      },
+      {
+        "name": "Egyptian Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Cable Seated Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      },
+      {
+        "name": "Seated Hip Abduction",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Incline Dumbbell Curl",
+        "warmupSets": 1,
+        "sets": 2,
+        "reps": "10"
+      },
+      {
+        "name": "Bicycle Crunch",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Push Up",
+        "warmupSets": 0,
+        "sets": 2,
+        "reps": "RPE only"
+      }
+    ]
   },
   {
     "id": "mon-am-3",
@@ -213,7 +721,45 @@
     "time": "PM",
     "date": "2025-10-20",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Back Squat",
+        "warmupSets": 3,
+        "sets": 4,
+        "reps": "4"
+      },
+      {
+        "name": "Dumbbell Incline Press",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Lying Leg Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Pronated Pulldown",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Supinated Ez Bar Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15/15"
+      },
+      {
+        "name": "Hanging Leg Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "tue-am-3",
@@ -231,7 +777,51 @@
     "time": "PM",
     "date": "2025-10-21",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Barbell Bench Press",
+        "warmupSets": 3,
+        "sets": 3,
+        "reps": "3"
+      },
+      {
+        "name": "Low To High Cable Flye",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Barbell Hip Thrust Or Rdl",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "12"
+      },
+      {
+        "name": "Chest-Supported T-Bar Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Arnold Press",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Tricep Pressdown",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Hex Bar Or Smith Machine Shrug",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "wed-am-3",
@@ -249,7 +839,21 @@
     "time": "PM",
     "date": "2025-10-22",
     "target": "Cardio",
-    "type": "Endurance"
+    "type": "Endurance",
+    "exercises": [
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "thu-am-3",
@@ -267,7 +871,45 @@
     "time": "PM",
     "date": "2025-10-23",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Weighted Pull-Up",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "6"
+      },
+      {
+        "name": "Humble Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Leg Press",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "8"
+      },
+      {
+        "name": "Cable Rope Upright Row",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Hammer Curl",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "8"
+      }
+    ]
   },
   {
     "id": "fri-am-3",
@@ -276,7 +918,57 @@
     "time": "AM",
     "date": "2025-10-24",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Deadlift",
+        "warmupSets": 3,
+        "sets": 4,
+        "reps": "2"
+      },
+      {
+        "name": "Dip",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Glute Ham Raise",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Leg Extension",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Cable Pull-Over",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Rope Face Pull",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Ez Bar Skull Crusher",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      }
+    ]
   },
   {
     "id": "sat-pm-3",
@@ -285,7 +977,27 @@
     "time": "PM",
     "date": "2025-10-25",
     "target": "Cardio",
-    "type": "Sport"
+    "type": "Sport",
+    "exercises": [
+      {
+        "name": "Mixed Heavy Bag Work",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "40min"
+      },
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "sun-pm-3",
@@ -294,7 +1006,57 @@
     "time": "PM",
     "date": "2025-10-26",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Overhead Press",
+        "warmupSets": 3,
+        "sets": 4,
+        "reps": "6"
+      },
+      {
+        "name": "Egyptian Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Cable Seated Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      },
+      {
+        "name": "Seated Hip Abduction",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Incline Dumbbell Curl",
+        "warmupSets": 1,
+        "sets": 2,
+        "reps": "10"
+      },
+      {
+        "name": "Bicycle Crunch",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Push Up",
+        "warmupSets": 0,
+        "sets": 2,
+        "reps": "RPE only"
+      }
+    ]
   },
   {
     "id": "mon-am-4",
@@ -312,7 +1074,45 @@
     "time": "PM",
     "date": "2025-10-27",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Back Squat",
+        "warmupSets": 3,
+        "sets": 3,
+        "reps": "5"
+      },
+      {
+        "name": "Dumbbell Incline Press",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Lying Leg Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Pronated Pulldown",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Supinated Ez Bar Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15/15"
+      },
+      {
+        "name": "Hanging Leg Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "tue-am-4",
@@ -330,7 +1130,51 @@
     "time": "PM",
     "date": "2025-10-28",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Barbell Bench Press",
+        "warmupSets": 3,
+        "sets": 3,
+        "reps": "5"
+      },
+      {
+        "name": "Low To High Cable Flye",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Barbell Hip Thrust Or Rdl",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "12"
+      },
+      {
+        "name": "Chest-Supported T-Bar Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Arnold Press",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Tricep Pressdown",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Hex Bar Or Smith Machine Shrug",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "wed-am-4",
@@ -348,7 +1192,21 @@
     "time": "PM",
     "date": "2025-10-29",
     "target": "Cardio",
-    "type": "Endurance"
+    "type": "Endurance",
+    "exercises": [
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "thu-am-4",
@@ -366,7 +1224,45 @@
     "time": "PM",
     "date": "2025-10-30",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Weighted Pull-Up",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "6"
+      },
+      {
+        "name": "Humble Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Leg Press",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "8"
+      },
+      {
+        "name": "Cable Rope Upright Row",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Hammer Curl",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "8"
+      }
+    ]
   },
   {
     "id": "fri-am-4",
@@ -375,7 +1271,57 @@
     "time": "AM",
     "date": "2025-10-31",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Reset Deadlift",
+        "warmupSets": 3,
+        "sets": 3,
+        "reps": "5"
+      },
+      {
+        "name": "Dip",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Glute Ham Raise",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Leg Extension",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Cable Pull-Over",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Rope Face Pull",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Ez Bar Skull Crusher",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      }
+    ]
   },
   {
     "id": "fri-pm-4-special",
@@ -393,7 +1339,27 @@
     "time": "PM",
     "date": "2025-11-01",
     "target": "Cardio",
-    "type": "Sport"
+    "type": "Sport",
+    "exercises": [
+      {
+        "name": "Mixed Heavy Bag Work",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "40min"
+      },
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "sun-pm-nov2",
@@ -402,7 +1368,57 @@
     "time": "PM",
     "date": "2025-11-02",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Overhead Press",
+        "warmupSets": 3,
+        "sets": 4,
+        "reps": "10"
+      },
+      {
+        "name": "Egyptian Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Cable Seated Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      },
+      {
+        "name": "Seated Hip Abduction",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Incline Dumbbell Curl",
+        "warmupSets": 1,
+        "sets": 2,
+        "reps": "10"
+      },
+      {
+        "name": "Bicycle Crunch",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Push Up",
+        "warmupSets": 0,
+        "sets": 2,
+        "reps": "RPE only"
+      }
+    ]
   },
   {
     "id": "mon-am-nov3",
@@ -420,7 +1436,51 @@
     "time": "PM",
     "date": "2025-11-03",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "[Topset] Back Squat",
+        "warmupSets": 3,
+        "sets": 1,
+        "reps": "3-5"
+      },
+      {
+        "name": "[Back Off] Back Squat",
+        "warmupSets": 3,
+        "sets": 2,
+        "reps": "5"
+      },
+      {
+        "name": "Barbell Overhead Press",
+        "warmupSets": 2,
+        "sets": 4,
+        "reps": "6"
+      },
+      {
+        "name": "Swiss Ball Leg Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Chin-Up",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "8"
+      },
+      {
+        "name": "Supinated Ez Bar Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10+2"
+      },
+      {
+        "name": "Ab Wheel Rollout",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "6"
+      }
+    ]
   },
   {
     "id": "tue-am-nov4",
@@ -438,7 +1498,51 @@
     "time": "PM",
     "date": "2025-11-04",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Barbell Bench Press",
+        "warmupSets": 3,
+        "sets": 3,
+        "reps": "3"
+      },
+      {
+        "name": "Low Incline Dumbbell Press",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Barbell Hip Thrust Or Rdl",
+        "warmupSets": 2,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Dumbbell Row",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "warmupSets": 0,
+        "sets": 4,
+        "reps": "15"
+      },
+      {
+        "name": "Overhead Tricep Extension",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Hex Bar Or Smith Machine Shrug",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "wed-am-nov5",
@@ -456,7 +1560,21 @@
     "time": "PM",
     "date": "2025-11-05",
     "target": "Cardio",
-    "type": "Endurance"
+    "type": "Endurance",
+    "exercises": [
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "thu-am-nov6",
@@ -474,7 +1592,45 @@
     "time": "PM",
     "date": "2025-11-06",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Weighted Pull-Up",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "6"
+      },
+      {
+        "name": "Banded Chest-Supported T-Bar Row",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "10"
+      },
+      {
+        "name": "Single-Leg Leg Press",
+        "warmupSets": 2,
+        "sets": 4,
+        "reps": "15"
+      },
+      {
+        "name": "Eccentric-Accentuated Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "8"
+      },
+      {
+        "name": "Cable Rope Upright Row",
+        "warmupSets": 0,
+        "sets": 4,
+        "reps": "10"
+      },
+      {
+        "name": "Cable Single-Arm Curl",
+        "warmupSets": 0,
+        "sets": 4,
+        "reps": "8"
+      }
+    ]
   },
   {
     "id": "fri-am-nov7",
@@ -483,7 +1639,63 @@
     "time": "AM",
     "date": "2025-11-07",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "[Topset] Deadlift",
+        "warmupSets": 3,
+        "sets": 1,
+        "reps": "2"
+      },
+      {
+        "name": "[Back Off] Reset Deadlift",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "2"
+      },
+      {
+        "name": "Decline Bench Press",
+        "warmupSets": 2,
+        "sets": 4,
+        "reps": "8"
+      },
+      {
+        "name": "Glute Ham Raise",
+        "warmupSets": 0,
+        "sets": 4,
+        "reps": "10"
+      },
+      {
+        "name": "Leg Extension",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Cable Pull-Over",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Reverse Pec Deck",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Ez Bar Skull Crusher",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      }
+    ]
   },
   {
     "id": "sat-pm-nov8",
@@ -492,7 +1704,27 @@
     "time": "PM",
     "date": "2025-11-08",
     "target": "Cardio",
-    "type": "Sport"
+    "type": "Sport",
+    "exercises": [
+      {
+        "name": "Mixed Heavy Bag Work",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "40min"
+      },
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "sun-pm-nov9",
@@ -501,7 +1733,57 @@
     "time": "PM",
     "date": "2025-11-09",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Overhead Press",
+        "warmupSets": 3,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Cable Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Pendlay Row",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "10"
+      },
+      {
+        "name": "Seated Hip Abduction",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "20"
+      },
+      {
+        "name": "Ez Bar Curl 21S",
+        "warmupSets": 1,
+        "sets": 2,
+        "reps": "7/7/7"
+      },
+      {
+        "name": "Cable Crunch",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "15"
+      },
+      {
+        "name": "Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Push Up",
+        "warmupSets": 0,
+        "sets": 2,
+        "reps": "AMRAP"
+      }
+    ]
   },
   {
     "id": "mon-am-nov10",
@@ -519,7 +1801,51 @@
     "time": "PM",
     "date": "2025-11-10",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "[Topset] Back Squat",
+        "warmupSets": 3,
+        "sets": 1,
+        "reps": "2"
+      },
+      {
+        "name": "[Back Off] Back Squat",
+        "warmupSets": 3,
+        "sets": 2,
+        "reps": "3"
+      },
+      {
+        "name": "Barbell Overhead Press",
+        "warmupSets": 2,
+        "sets": 4,
+        "reps": "8"
+      },
+      {
+        "name": "Swiss Ball Leg Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Chin-Up",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "8"
+      },
+      {
+        "name": "Supinated Ez Bar Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10+2"
+      },
+      {
+        "name": "Ab Wheel Rollout",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "tue-am-nov11",
@@ -537,7 +1863,51 @@
     "time": "PM",
     "date": "2025-11-11",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Barbell Bench Press",
+        "warmupSets": 3,
+        "sets": 3,
+        "reps": "5"
+      },
+      {
+        "name": "Low Incline Dumbbell Press",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Barbell Hip Thrust Or Rdl",
+        "warmupSets": 2,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Dumbbell Row",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "warmupSets": 0,
+        "sets": 4,
+        "reps": "15"
+      },
+      {
+        "name": "Overhead Tricep Extension",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Hex Bar Or Smith Machine Shrug",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "wed-am-nov12",
@@ -555,7 +1925,21 @@
     "time": "PM",
     "date": "2025-11-12",
     "target": "Cardio",
-    "type": "Endurance"
+    "type": "Endurance",
+    "exercises": [
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "thu-am-nov13",
@@ -573,7 +1957,45 @@
     "time": "PM",
     "date": "2025-11-13",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Weighted Pull-Up",
+        "warmupSets": 2,
+        "sets": 4,
+        "reps": "3"
+      },
+      {
+        "name": "Banded Chest-Supported T-Bar Row",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "10"
+      },
+      {
+        "name": "Single-Leg Leg Press",
+        "warmupSets": 2,
+        "sets": 4,
+        "reps": "15"
+      },
+      {
+        "name": "Eccentric-Accentuated Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "8"
+      },
+      {
+        "name": "Cable Rope Upright Row",
+        "warmupSets": 0,
+        "sets": 4,
+        "reps": "10"
+      },
+      {
+        "name": "Cable Single-Arm Curl",
+        "warmupSets": 0,
+        "sets": 4,
+        "reps": "8"
+      }
+    ]
   },
   {
     "id": "fri-am-nov14",
@@ -582,7 +2004,63 @@
     "time": "AM",
     "date": "2025-11-14",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "[Topset] Deadlift",
+        "warmupSets": 3,
+        "sets": 1,
+        "reps": "4"
+      },
+      {
+        "name": "[Back Off] Reset Deadlift",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "4"
+      },
+      {
+        "name": "Decline Bench Press",
+        "warmupSets": 2,
+        "sets": 4,
+        "reps": "8"
+      },
+      {
+        "name": "Glute Ham Raise",
+        "warmupSets": 0,
+        "sets": 4,
+        "reps": "10"
+      },
+      {
+        "name": "Leg Extension",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Cable Pull-Over",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Reverse Pec Deck",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Ez Bar Skull Crusher",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      }
+    ]
   },
   {
     "id": "sat-pm-nov15",
@@ -591,7 +2069,27 @@
     "time": "PM",
     "date": "2025-11-15",
     "target": "Cardio",
-    "type": "Sport"
+    "type": "Sport",
+    "exercises": [
+      {
+        "name": "Mixed Heavy Bag Work",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "40min"
+      },
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "sun-pm-nov16",
@@ -600,7 +2098,57 @@
     "time": "PM",
     "date": "2025-11-16",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Overhead Press",
+        "warmupSets": 3,
+        "sets": 4,
+        "reps": "4"
+      },
+      {
+        "name": "Cable Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Pendlay Row",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Seated Hip Abduction",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "20"
+      },
+      {
+        "name": "Ez Bar Curl 21S",
+        "warmupSets": 1,
+        "sets": 2,
+        "reps": "10"
+      },
+      {
+        "name": "Cable Crunch",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "15"
+      },
+      {
+        "name": "Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Push Up",
+        "warmupSets": 0,
+        "sets": 2,
+        "reps": "AMRAP"
+      }
+    ]
   },
   {
     "id": "mon-am-nov17",
@@ -618,7 +2166,51 @@
     "time": "PM",
     "date": "2025-11-17",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "[Topset] Back Squat",
+        "warmupSets": 3,
+        "sets": 1,
+        "reps": "6-8"
+      },
+      {
+        "name": "[Back Off] Back Squat",
+        "warmupSets": 3,
+        "sets": 2,
+        "reps": "8"
+      },
+      {
+        "name": "Barbell Overhead Press",
+        "warmupSets": 2,
+        "sets": 4,
+        "reps": "10"
+      },
+      {
+        "name": "Swiss Ball Leg Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Chin-Up",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "8"
+      },
+      {
+        "name": "Supinated Ez Bar Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10+2"
+      },
+      {
+        "name": "Ab Wheel Rollout",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "tue-am-nov18",
@@ -636,7 +2228,51 @@
     "time": "PM",
     "date": "2025-11-18",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Barbell Bench Press",
+        "warmupSets": 3,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Low Incline Dumbbell Press",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Barbell Hip Thrust Or Rdl",
+        "warmupSets": 2,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Dumbbell Row",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "warmupSets": 0,
+        "sets": 4,
+        "reps": "15"
+      },
+      {
+        "name": "Overhead Tricep Extension",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Hex Bar Or Smith Machine Shrug",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "wed-am-nov19",
@@ -654,7 +2290,21 @@
     "time": "PM",
     "date": "2025-11-19",
     "target": "Cardio",
-    "type": "Endurance"
+    "type": "Endurance",
+    "exercises": [
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "thu-am-nov20",
@@ -672,7 +2322,45 @@
     "time": "PM",
     "date": "2025-11-20",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Weighted Pull-Up",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Banded Chest-Supported T-Bar Row",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "10"
+      },
+      {
+        "name": "Single-Leg Leg Press",
+        "warmupSets": 2,
+        "sets": 4,
+        "reps": "15"
+      },
+      {
+        "name": "Eccentric-Accentuated Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "8"
+      },
+      {
+        "name": "Cable Rope Upright Row",
+        "warmupSets": 0,
+        "sets": 4,
+        "reps": "10"
+      },
+      {
+        "name": "Cable Single-Arm Curl",
+        "warmupSets": 0,
+        "sets": 4,
+        "reps": "8"
+      }
+    ]
   },
   {
     "id": "fri-am-nov21",
@@ -681,7 +2369,63 @@
     "time": "AM",
     "date": "2025-11-21",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "[Topset] Deadlift",
+        "warmupSets": 3,
+        "sets": 1,
+        "reps": "6"
+      },
+      {
+        "name": "[Back Off] Reset Deadlift",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "6"
+      },
+      {
+        "name": "Decline Bench Press",
+        "warmupSets": 2,
+        "sets": 4,
+        "reps": "8"
+      },
+      {
+        "name": "Glute Ham Raise",
+        "warmupSets": 0,
+        "sets": 4,
+        "reps": "10"
+      },
+      {
+        "name": "Leg Extension",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Cable Pull-Over",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Reverse Pec Deck",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Ez Bar Skull Crusher",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      }
+    ]
   },
   {
     "id": "sat-pm-nov22",
@@ -690,7 +2434,27 @@
     "time": "PM",
     "date": "2025-11-22",
     "target": "Cardio",
-    "type": "Sport"
+    "type": "Sport",
+    "exercises": [
+      {
+        "name": "Mixed Heavy Bag Work",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "40min"
+      },
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "sun-pm-nov23",
@@ -699,7 +2463,57 @@
     "time": "PM",
     "date": "2025-11-23",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Overhead Press",
+        "warmupSets": 3,
+        "sets": 4,
+        "reps": "6"
+      },
+      {
+        "name": "Cable Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Pendlay Row",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Seated Hip Abduction",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "20"
+      },
+      {
+        "name": "Ez Bar Curl 21S",
+        "warmupSets": 1,
+        "sets": 2,
+        "reps": "10"
+      },
+      {
+        "name": "Cable Crunch",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "15"
+      },
+      {
+        "name": "Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Push Up",
+        "warmupSets": 0,
+        "sets": 2,
+        "reps": "AMRAP"
+      }
+    ]
   },
   {
     "id": "mon-am-nov24",
@@ -717,7 +2531,51 @@
     "time": "PM",
     "date": "2025-11-24",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "[Topset] Back Squat",
+        "warmupSets": 3,
+        "sets": 1,
+        "reps": "2"
+      },
+      {
+        "name": "[Back Off] Back Squat",
+        "warmupSets": 3,
+        "sets": 2,
+        "reps": "2"
+      },
+      {
+        "name": "Barbell Overhead Press",
+        "warmupSets": 2,
+        "sets": 4,
+        "reps": "5"
+      },
+      {
+        "name": "Swiss Ball Leg Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Chin-Up",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "8"
+      },
+      {
+        "name": "Supinated Ez Bar Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10+2"
+      },
+      {
+        "name": "Ab Wheel Rollout",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "tue-am-nov25",
@@ -735,7 +2593,51 @@
     "time": "PM",
     "date": "2025-11-25",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Barbell Bench Press",
+        "warmupSets": 3,
+        "sets": 4,
+        "reps": "2"
+      },
+      {
+        "name": "Low Incline Dumbbell Press",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Barbell Hip Thrust Or Rdl",
+        "warmupSets": 2,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Dumbbell Row",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "warmupSets": 0,
+        "sets": 4,
+        "reps": "15"
+      },
+      {
+        "name": "Overhead Tricep Extension",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Hex Bar Or Smith Machine Shrug",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "wed-am-nov26",
@@ -753,7 +2655,21 @@
     "time": "PM",
     "date": "2025-11-26",
     "target": "Cardio",
-    "type": "Endurance"
+    "type": "Endurance",
+    "exercises": [
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "thu-am-nov27",
@@ -771,7 +2687,45 @@
     "time": "PM",
     "date": "2025-11-27",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Weighted Pull-Up",
+        "warmupSets": 2,
+        "sets": 4,
+        "reps": "6"
+      },
+      {
+        "name": "Banded Chest-Supported T-Bar Row",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "10"
+      },
+      {
+        "name": "Single-Leg Leg Press",
+        "warmupSets": 2,
+        "sets": 4,
+        "reps": "15"
+      },
+      {
+        "name": "Eccentric-Accentuated Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "8"
+      },
+      {
+        "name": "Cable Rope Upright Row",
+        "warmupSets": 0,
+        "sets": 4,
+        "reps": "10"
+      },
+      {
+        "name": "Cable Single-Arm Curl",
+        "warmupSets": 0,
+        "sets": 4,
+        "reps": "8"
+      }
+    ]
   },
   {
     "id": "fri-am-nov28",
@@ -780,7 +2734,63 @@
     "time": "AM",
     "date": "2025-11-28",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "[Topset] Deadlift",
+        "warmupSets": 3,
+        "sets": 1,
+        "reps": "2"
+      },
+      {
+        "name": "[Back Off] Reset Deadlift",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "3"
+      },
+      {
+        "name": "Decline Bench Press",
+        "warmupSets": 2,
+        "sets": 4,
+        "reps": "8"
+      },
+      {
+        "name": "Glute Ham Raise",
+        "warmupSets": 0,
+        "sets": 4,
+        "reps": "10"
+      },
+      {
+        "name": "Leg Extension",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Cable Pull-Over",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Reverse Pec Deck",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Ez Bar Skull Crusher",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      }
+    ]
   },
   {
     "id": "fri-pm-nov28-special",
@@ -798,7 +2808,27 @@
     "time": "PM",
     "date": "2025-11-29",
     "target": "Cardio",
-    "type": "Sport"
+    "type": "Sport",
+    "exercises": [
+      {
+        "name": "Mixed Heavy Bag Work",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "40min"
+      },
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "sun-pm-nov30",
@@ -807,7 +2837,57 @@
     "time": "PM",
     "date": "2025-11-30",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Overhead Press",
+        "warmupSets": 3,
+        "sets": 5,
+        "reps": "3"
+      },
+      {
+        "name": "Cable Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Pendlay Row",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Seated Hip Abduction",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "20"
+      },
+      {
+        "name": "Ez Bar Curl 21S",
+        "warmupSets": 1,
+        "sets": 2,
+        "reps": "10"
+      },
+      {
+        "name": "Cable Crunch",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "15"
+      },
+      {
+        "name": "Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Push Up",
+        "warmupSets": 0,
+        "sets": 2,
+        "reps": "RPE only"
+      }
+    ]
   },
   {
     "id": "mon-am-dec1",
@@ -825,7 +2905,45 @@
     "time": "PM",
     "date": "2025-12-01",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Back Squat",
+        "warmupSets": 3,
+        "sets": 4,
+        "reps": "4"
+      },
+      {
+        "name": "Barbell Bench Press",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "4"
+      },
+      {
+        "name": "Lying Leg Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Pronated Pulldown",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Supinated Ez Bar Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Cable Crunch",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "tue-am-dec2",
@@ -843,7 +2961,51 @@
     "time": "PM",
     "date": "2025-12-02",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Barbell Bench Press",
+        "warmupSets": 3,
+        "sets": 3,
+        "reps": "3"
+      },
+      {
+        "name": "Low To High Cable Flye",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Deadlift",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "3"
+      },
+      {
+        "name": "Chest-Supported T-Bar Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Tricep Pressdown",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Hex Bar Or Smith Machine Shrug",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "wed-am-dec3",
@@ -861,7 +3023,21 @@
     "time": "PM",
     "date": "2025-12-03",
     "target": "Cardio",
-    "type": "Endurance"
+    "type": "Endurance",
+    "exercises": [
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "thu-am-dec4",
@@ -879,7 +3055,45 @@
     "time": "PM",
     "date": "2025-12-04",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Wiide Grip Lat Pulldown",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "6"
+      },
+      {
+        "name": "Chest-Supported T-Bar Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Leg Press",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "12"
+      },
+      {
+        "name": "Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "8"
+      },
+      {
+        "name": "Cable Rope Upright Row",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Hammer Curl",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "8"
+      }
+    ]
   },
   {
     "id": "fri-am-dec5",
@@ -888,7 +3102,57 @@
     "time": "AM",
     "date": "2025-12-05",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Deadlift",
+        "warmupSets": 3,
+        "sets": 3,
+        "reps": "2"
+      },
+      {
+        "name": "Decline Bench Press",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Glute Ham Raise",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Leg Extension",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Cable Pull-Over",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Rope Face Pull",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Ez Bar Skull Crusher",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      }
+    ]
   },
   {
     "id": "sat-pm-dec6",
@@ -897,7 +3161,27 @@
     "time": "PM",
     "date": "2025-12-06",
     "target": "Cardio",
-    "type": "Sport"
+    "type": "Sport",
+    "exercises": [
+      {
+        "name": "Mixed Heavy Bag Work",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "40min"
+      },
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "sun-pm-dec7",
@@ -906,7 +3190,57 @@
     "time": "PM",
     "date": "2025-12-07",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Overhead Press",
+        "warmupSets": 3,
+        "sets": 4,
+        "reps": "6"
+      },
+      {
+        "name": "Barbell Bench Press",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "2"
+      },
+      {
+        "name": "Cable Seated Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      },
+      {
+        "name": "Seated Hip Abduction",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Incline Dumbbell Curl",
+        "warmupSets": 1,
+        "sets": 2,
+        "reps": "10"
+      },
+      {
+        "name": "Bicycle Crunch",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Push Up",
+        "warmupSets": 0,
+        "sets": 2,
+        "reps": "RPE only"
+      }
+    ]
   },
   {
     "id": "mon-am-dec8",
@@ -924,7 +3258,51 @@
     "time": "PM",
     "date": "2025-12-08",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Topset: Back Squat",
+        "warmupSets": 3,
+        "sets": 1,
+        "reps": "AMRAP"
+      },
+      {
+        "name": "Back Squat",
+        "warmupSets": 0,
+        "sets": 2,
+        "reps": "6"
+      },
+      {
+        "name": "Dumbbell Incline Press",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Lying Leg Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Pronated Pulldown",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Supinated Ez Bar Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Cable Crunch",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "tue-am-dec9",
@@ -942,7 +3320,57 @@
     "time": "PM",
     "date": "2025-12-09",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Barbell Bench Press",
+        "warmupSets": 3,
+        "sets": 1,
+        "reps": "AMRAP"
+      },
+      {
+        "name": "Barbell Bench Press",
+        "warmupSets": 0,
+        "sets": 2,
+        "reps": "5"
+      },
+      {
+        "name": "Low To High Cable Flye",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Barbell Hip Thrust Or Rdl",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "12"
+      },
+      {
+        "name": "Chest-Supported T-Bar Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Arnold Press",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Tricep Pressdown",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Hex Bar Or Smith Machine Shrug",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "wed-am-dec10",
@@ -960,7 +3388,21 @@
     "time": "PM",
     "date": "2025-12-10",
     "target": "Cardio",
-    "type": "Endurance"
+    "type": "Endurance",
+    "exercises": [
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "thu-am-dec11",
@@ -978,7 +3420,45 @@
     "time": "PM",
     "date": "2025-12-11",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Weighted Pull-Up",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "6"
+      },
+      {
+        "name": "Humble Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Leg Press",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "8"
+      },
+      {
+        "name": "Cable Rope Upright Row",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Hammer Curl",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "8"
+      }
+    ]
   },
   {
     "id": "fri-am-dec12",
@@ -987,7 +3467,63 @@
     "time": "AM",
     "date": "2025-12-12",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Deadlift",
+        "warmupSets": 3,
+        "sets": 1,
+        "reps": "AMRAP"
+      },
+      {
+        "name": "Reset Deadlift",
+        "warmupSets": 3,
+        "sets": 2,
+        "reps": "5"
+      },
+      {
+        "name": "Decline Bench Press",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Glute Ham Raise",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Leg Extension",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Cable Pull-Over",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Rope Face Pull",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Ez Bar Skull Crusher",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      }
+    ]
   },
   {
     "id": "sat-pm-dec13",
@@ -996,7 +3532,27 @@
     "time": "PM",
     "date": "2025-12-13",
     "target": "Cardio",
-    "type": "Sport"
+    "type": "Sport",
+    "exercises": [
+      {
+        "name": "Mixed Heavy Bag Work",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "40min"
+      },
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "sun-pm-dec14",
@@ -1005,7 +3561,57 @@
     "time": "PM",
     "date": "2025-12-14",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Overhead Press",
+        "warmupSets": 3,
+        "sets": 4,
+        "reps": "10"
+      },
+      {
+        "name": "Egyptian Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Cable Seated Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      },
+      {
+        "name": "Seated Hip Abduction",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Incline Dumbbell Curl",
+        "warmupSets": 1,
+        "sets": 2,
+        "reps": "10"
+      },
+      {
+        "name": "Bicycle Crunch",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Push Up",
+        "warmupSets": 0,
+        "sets": 2,
+        "reps": "AMRAP"
+      }
+    ]
   },
   {
     "id": "mon-am-dec15",
@@ -1023,7 +3629,45 @@
     "time": "PM",
     "date": "2025-12-15",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Back Squat",
+        "warmupSets": 3,
+        "sets": 4,
+        "reps": "4"
+      },
+      {
+        "name": "Dumbbell Incline Press",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Lying Leg Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Pronated Pulldown",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Supinated Ez Bar Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15/15"
+      },
+      {
+        "name": "Hanging Leg Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "tue-am-dec16",
@@ -1041,7 +3685,51 @@
     "time": "PM",
     "date": "2025-12-16",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Barbell Bench Press",
+        "warmupSets": 3,
+        "sets": 3,
+        "reps": "3"
+      },
+      {
+        "name": "Low To High Cable Flye",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Barbell Hip Thrust Or Rdl",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "12"
+      },
+      {
+        "name": "Chest-Supported T-Bar Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Arnold Press",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Tricep Pressdown",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Hex Bar Or Smith Machine Shrug",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "wed-am-dec17",
@@ -1059,7 +3747,21 @@
     "time": "PM",
     "date": "2025-12-17",
     "target": "Cardio",
-    "type": "Endurance"
+    "type": "Endurance",
+    "exercises": [
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "thu-am-dec18",
@@ -1077,7 +3779,45 @@
     "time": "PM",
     "date": "2025-12-18",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Weighted Pull-Up",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "6"
+      },
+      {
+        "name": "Humble Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Leg Press",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "8"
+      },
+      {
+        "name": "Cable Rope Upright Row",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Hammer Curl",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "8"
+      }
+    ]
   },
   {
     "id": "fri-am-dec19",
@@ -1086,7 +3826,57 @@
     "time": "AM",
     "date": "2025-12-19",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Deadlift",
+        "warmupSets": 3,
+        "sets": 4,
+        "reps": "2"
+      },
+      {
+        "name": "Dip",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Glute Ham Raise",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Leg Extension",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Cable Pull-Over",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Rope Face Pull",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Ez Bar Skull Crusher",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      }
+    ]
   },
   {
     "id": "sat-pm-dec20",
@@ -1095,7 +3885,27 @@
     "time": "PM",
     "date": "2025-12-20",
     "target": "Cardio",
-    "type": "Sport"
+    "type": "Sport",
+    "exercises": [
+      {
+        "name": "Mixed Heavy Bag Work",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "40min"
+      },
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "sun-pm-dec21",
@@ -1104,7 +3914,57 @@
     "time": "PM",
     "date": "2025-12-21",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Overhead Press",
+        "warmupSets": 3,
+        "sets": 4,
+        "reps": "6"
+      },
+      {
+        "name": "Egyptian Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Cable Seated Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      },
+      {
+        "name": "Seated Hip Abduction",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Incline Dumbbell Curl",
+        "warmupSets": 1,
+        "sets": 2,
+        "reps": "10"
+      },
+      {
+        "name": "Bicycle Crunch",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Push Up",
+        "warmupSets": 0,
+        "sets": 2,
+        "reps": "RPE only"
+      }
+    ]
   },
   {
     "id": "mon-am-dec22",
@@ -1122,7 +3982,45 @@
     "time": "PM",
     "date": "2025-12-22",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Back Squat",
+        "warmupSets": 3,
+        "sets": 3,
+        "reps": "6"
+      },
+      {
+        "name": "Dumbbell Incline Press",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Lying Leg Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Pronated Pulldown",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Supinated Ez Bar Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15/15"
+      },
+      {
+        "name": "Hanging Leg Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "tue-am-dec23",
@@ -1140,7 +4038,51 @@
     "time": "PM",
     "date": "2025-12-23",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Barbell Bench Press",
+        "warmupSets": 3,
+        "sets": 3,
+        "reps": "5"
+      },
+      {
+        "name": "Low To High Cable Flye",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Barbell Hip Thrust Or Rdl",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "12"
+      },
+      {
+        "name": "Chest-Supported T-Bar Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Arnold Press",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Tricep Pressdown",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Hex Bar Or Smith Machine Shrug",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "wed-am-dec24",
@@ -1158,7 +4100,21 @@
     "time": "PM",
     "date": "2025-12-24",
     "target": "Cardio",
-    "type": "Endurance"
+    "type": "Endurance",
+    "exercises": [
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "thu-am-dec25",
@@ -1176,7 +4132,45 @@
     "time": "PM",
     "date": "2025-12-25",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Weighted Pull-Up",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "6"
+      },
+      {
+        "name": "Humble Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Leg Press",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "8"
+      },
+      {
+        "name": "Cable Rope Upright Row",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Hammer Curl",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "8"
+      }
+    ]
   },
   {
     "id": "fri-am-dec26",
@@ -1185,7 +4179,57 @@
     "time": "AM",
     "date": "2025-12-26",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Reset Deadlift",
+        "warmupSets": 3,
+        "sets": 3,
+        "reps": "5"
+      },
+      {
+        "name": "Dip",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Glute Ham Raise",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Leg Extension",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Cable Pull-Over",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Rope Face Pull",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Ez Bar Skull Crusher",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      }
+    ]
   },
   {
     "id": "fri-pm-dec26-special",
@@ -1203,7 +4247,27 @@
     "time": "PM",
     "date": "2025-12-27",
     "target": "Cardio",
-    "type": "Sport"
+    "type": "Sport",
+    "exercises": [
+      {
+        "name": "Mixed Heavy Bag Work",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "40min"
+      },
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   },
   {
     "id": "sun-pm-dec28",
@@ -1212,7 +4276,57 @@
     "time": "PM",
     "date": "2025-12-28",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Overhead Press",
+        "warmupSets": 3,
+        "sets": 4,
+        "reps": "10"
+      },
+      {
+        "name": "Egyptian Lateral Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Cable Seated Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      },
+      {
+        "name": "Seated Hip Abduction",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "20"
+      },
+      {
+        "name": "Incline Dumbbell Curl",
+        "warmupSets": 1,
+        "sets": 2,
+        "reps": "10"
+      },
+      {
+        "name": "Bicycle Crunch",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Standing Calf Raise",
+        "warmupSets": 1,
+        "sets": 4,
+        "reps": "12"
+      },
+      {
+        "name": "Push Up",
+        "warmupSets": 0,
+        "sets": 2,
+        "reps": "RPE only"
+      }
+    ]
   },
   {
     "id": "mon-am-dec29",
@@ -1230,7 +4344,45 @@
     "time": "PM",
     "date": "2025-12-29",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Back Squat",
+        "warmupSets": 3,
+        "sets": 4,
+        "reps": "4"
+      },
+      {
+        "name": "Dumbbell Incline Press",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "8"
+      },
+      {
+        "name": "Lying Leg Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Pronated Pulldown",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Supinated Ez Bar Curl",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15/15"
+      },
+      {
+        "name": "Hanging Leg Raise",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "tue-am-dec30",
@@ -1248,7 +4400,51 @@
     "time": "PM",
     "date": "2025-12-30",
     "target": "Strength",
-    "type": "Workout"
+    "type": "Workout",
+    "exercises": [
+      {
+        "name": "Barbell Bench Press",
+        "warmupSets": 3,
+        "sets": 3,
+        "reps": "3"
+      },
+      {
+        "name": "Low To High Cable Flye",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Barbell Hip Thrust Or Rdl",
+        "warmupSets": 2,
+        "sets": 3,
+        "reps": "12"
+      },
+      {
+        "name": "Chest-Supported T-Bar Row",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Arnold Press",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "10"
+      },
+      {
+        "name": "Tricep Pressdown",
+        "warmupSets": 0,
+        "sets": 3,
+        "reps": "15"
+      },
+      {
+        "name": "Hex Bar Or Smith Machine Shrug",
+        "warmupSets": 1,
+        "sets": 3,
+        "reps": "12"
+      }
+    ]
   },
   {
     "id": "wed-am-dec31",
@@ -1266,6 +4462,20 @@
     "time": "PM",
     "date": "2025-12-31",
     "target": "Cardio",
-    "type": "Endurance"
+    "type": "Endurance",
+    "exercises": [
+      {
+        "name": "400m Swim (16x25m)",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "16x25m"
+      },
+      {
+        "name": "Treading Water",
+        "warmupSets": 0,
+        "sets": 1,
+        "reps": "5min"
+      }
+    ]
   }
 ]

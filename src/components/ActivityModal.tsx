@@ -66,6 +66,22 @@ const ActivityModal = ({ activity, onClose }: ActivityModalProps) => {
           {activity.description && (
             <p><strong style={{ color: targetColor.text }}>Details:</strong> {activity.description}</p>
           )}
+          {activity.exercises && activity.exercises.length > 0 && (
+            <div className="exercises-section">
+              <h3 style={{ color: targetColor.text }}>Exercises</h3>
+              <div className="exercises-list">
+                {activity.exercises.map((exercise, index) => (
+                  <div key={index} className="exercise-item">
+                    <span className="exercise-name">{exercise.name}</span>
+                    <span className="exercise-stats">
+                      {exercise.warmupSets > 0 && `${exercise.warmupSets}w + `}
+                      {exercise.sets > 1 ? `${exercise.sets} × ${exercise.reps}` : exercise.reps}
+                    </span>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
         </div>
         <div className="email-buttons">
           <a
