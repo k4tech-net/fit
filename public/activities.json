@@ -299,5 +299,691 @@
     "description": "Last Friday of the month - 21km run",
     "time": "PM",
     "date": "2025-10-31"
+  },
+  {
+    "id": "sat-pm-nov1",
+    "name": "Boxing & Swimming",
+    "description": "Heavy bag work followed by swim",
+    "time": "PM",
+    "date": "2025-11-01"
+  },
+  {
+    "id": "sun-pm-nov2",
+    "name": "Gym Session",
+    "description": "Deltoid focused full body session",
+    "time": "PM",
+    "date": "2025-11-02"
+  },
+  {
+    "id": "mon-am-nov3",
+    "name": "Cardio Training",
+    "description": "Run or circuit training",
+    "time": "AM",
+    "date": "2025-11-03"
+  },
+  {
+    "id": "mon-pm-nov3",
+    "name": "Gym Session",
+    "description": "Lower focused full body session",
+    "time": "PM",
+    "date": "2025-11-03"
+  },
+  {
+    "id": "tue-am-nov4",
+    "name": "PT Session",
+    "description": "Changes weekly",
+    "time": "AM",
+    "date": "2025-11-04"
+  },
+  {
+    "id": "tue-pm-nov4",
+    "name": "Gym Session",
+    "description": "Chest focused full body session",
+    "time": "PM",
+    "date": "2025-11-04"
+  },
+  {
+    "id": "wed-am-nov5",
+    "name": "Strength/Cardio Circuit",
+    "description": "Mixed strength and cardio circuit training",
+    "time": "AM",
+    "date": "2025-11-05"
+  },
+  {
+    "id": "wed-pm-nov5",
+    "name": "Fully Clothed Swim",
+    "description": "Swim practice in full clothing",
+    "time": "PM",
+    "date": "2025-11-05"
+  },
+  {
+    "id": "thu-am-nov6",
+    "name": "Strength Training",
+    "description": "Circuit or gym session",
+    "time": "AM",
+    "date": "2025-11-06"
+  },
+  {
+    "id": "thu-pm-nov6",
+    "name": "Gym Session",
+    "description": "Back focused full body session",
+    "time": "PM",
+    "date": "2025-11-06"
+  },
+  {
+    "id": "fri-am-nov7",
+    "name": "Gym Session",
+    "description": "Lower focused full body 2",
+    "time": "AM",
+    "date": "2025-11-07"
+  },
+  {
+    "id": "sat-pm-nov8",
+    "name": "Boxing & Swimming",
+    "description": "Heavy bag work followed by swim",
+    "time": "PM",
+    "date": "2025-11-08"
+  },
+  {
+    "id": "sun-pm-nov9",
+    "name": "Gym Session",
+    "description": "Deltoid focused full body session",
+    "time": "PM",
+    "date": "2025-11-09"
+  },
+  {
+    "id": "mon-am-nov10",
+    "name": "Cardio Training",
+    "description": "Run or circuit training",
+    "time": "AM",
+    "date": "2025-11-10"
+  },
+  {
+    "id": "mon-pm-nov10",
+    "name": "Gym Session",
+    "description": "Lower focused full body session",
+    "time": "PM",
+    "date": "2025-11-10"
+  },
+  {
+    "id": "tue-am-nov11",
+    "name": "PT Session",
+    "description": "Changes weekly",
+    "time": "AM",
+    "date": "2025-11-11"
+  },
+  {
+    "id": "tue-pm-nov11",
+    "name": "Gym Session",
+    "description": "Chest focused full body session",
+    "time": "PM",
+    "date": "2025-11-11"
+  },
+  {
+    "id": "wed-am-nov12",
+    "name": "Strength/Cardio Circuit",
+    "description": "Mixed strength and cardio circuit training",
+    "time": "AM",
+    "date": "2025-11-12"
+  },
+  {
+    "id": "wed-pm-nov12",
+    "name": "Fully Clothed Swim",
+    "description": "Swim practice in full clothing",
+    "time": "PM",
+    "date": "2025-11-12"
+  },
+  {
+    "id": "thu-am-nov13",
+    "name": "Strength Training",
+    "description": "Circuit or gym session",
+    "time": "AM",
+    "date": "2025-11-13"
+  },
+  {
+    "id": "thu-pm-nov13",
+    "name": "Gym Session",
+    "description": "Back focused full body session",
+    "time": "PM",
+    "date": "2025-11-13"
+  },
+  {
+    "id": "fri-am-nov14",
+    "name": "Gym Session",
+    "description": "Lower focused full body 2",
+    "time": "AM",
+    "date": "2025-11-14"
+  },
+  {
+    "id": "sat-pm-nov15",
+    "name": "Boxing & Swimming",
+    "description": "Heavy bag work followed by swim",
+    "time": "PM",
+    "date": "2025-11-15"
+  },
+  {
+    "id": "sun-pm-nov16",
+    "name": "Gym Session",
+    "description": "Deltoid focused full body session",
+    "time": "PM",
+    "date": "2025-11-16"
+  },
+  {
+    "id": "mon-am-nov17",
+    "name": "Cardio Training",
+    "description": "Run or circuit training",
+    "time": "AM",
+    "date": "2025-11-17"
+  },
+  {
+    "id": "mon-pm-nov17",
+    "name": "Gym Session",
+    "description": "Lower focused full body session",
+    "time": "PM",
+    "date": "2025-11-17"
+  },
+  {
+    "id": "tue-am-nov18",
+    "name": "PT Session",
+    "description": "Changes weekly",
+    "time": "AM",
+    "date": "2025-11-18"
+  },
+  {
+    "id": "tue-pm-nov18",
+    "name": "Gym Session",
+    "description": "Chest focused full body session",
+    "time": "PM",
+    "date": "2025-11-18"
+  },
+  {
+    "id": "wed-am-nov19",
+    "name": "Strength/Cardio Circuit",
+    "description": "Mixed strength and cardio circuit training",
+    "time": "AM",
+    "date": "2025-11-19"
+  },
+  {
+    "id": "wed-pm-nov19",
+    "name": "Fully Clothed Swim",
+    "description": "Swim practice in full clothing",
+    "time": "PM",
+    "date": "2025-11-19"
+  },
+  {
+    "id": "thu-am-nov20",
+    "name": "Strength Training",
+    "description": "Circuit or gym session",
+    "time": "AM",
+    "date": "2025-11-20"
+  },
+  {
+    "id": "thu-pm-nov20",
+    "name": "Gym Session",
+    "description": "Back focused full body session",
+    "time": "PM",
+    "date": "2025-11-20"
+  },
+  {
+    "id": "fri-am-nov21",
+    "name": "Gym Session",
+    "description": "Lower focused full body 2",
+    "time": "AM",
+    "date": "2025-11-21"
+  },
+  {
+    "id": "sat-pm-nov22",
+    "name": "Boxing & Swimming",
+    "description": "Heavy bag work followed by swim",
+    "time": "PM",
+    "date": "2025-11-22"
+  },
+  {
+    "id": "sun-pm-nov23",
+    "name": "Gym Session",
+    "description": "Deltoid focused full body session",
+    "time": "PM",
+    "date": "2025-11-23"
+  },
+  {
+    "id": "mon-am-nov24",
+    "name": "Cardio Training",
+    "description": "Run or circuit training",
+    "time": "AM",
+    "date": "2025-11-24"
+  },
+  {
+    "id": "mon-pm-nov24",
+    "name": "Gym Session",
+    "description": "Lower focused full body session",
+    "time": "PM",
+    "date": "2025-11-24"
+  },
+  {
+    "id": "tue-am-nov25",
+    "name": "PT Session",
+    "description": "Changes weekly",
+    "time": "AM",
+    "date": "2025-11-25"
+  },
+  {
+    "id": "tue-pm-nov25",
+    "name": "Gym Session",
+    "description": "Chest focused full body session",
+    "time": "PM",
+    "date": "2025-11-25"
+  },
+  {
+    "id": "wed-am-nov26",
+    "name": "Strength/Cardio Circuit",
+    "description": "Mixed strength and cardio circuit training",
+    "time": "AM",
+    "date": "2025-11-26"
+  },
+  {
+    "id": "wed-pm-nov26",
+    "name": "Fully Clothed Swim",
+    "description": "Swim practice in full clothing",
+    "time": "PM",
+    "date": "2025-11-26"
+  },
+  {
+    "id": "thu-am-nov27",
+    "name": "Strength Training",
+    "description": "Circuit or gym session",
+    "time": "AM",
+    "date": "2025-11-27"
+  },
+  {
+    "id": "thu-pm-nov27",
+    "name": "Gym Session",
+    "description": "Back focused full body session",
+    "time": "PM",
+    "date": "2025-11-27"
+  },
+  {
+    "id": "fri-am-nov28",
+    "name": "Gym Session",
+    "description": "Lower focused full body 2",
+    "time": "AM",
+    "date": "2025-11-28"
+  },
+  {
+    "id": "fri-pm-nov28-special",
+    "name": "Half Marathon Run",
+    "description": "Last Friday of the month - 21km run",
+    "time": "PM",
+    "date": "2025-11-28"
+  },
+  {
+    "id": "sat-pm-nov29",
+    "name": "Boxing & Swimming",
+    "description": "Heavy bag work followed by swim",
+    "time": "PM",
+    "date": "2025-11-29"
+  },
+  {
+    "id": "sun-pm-nov30",
+    "name": "Gym Session",
+    "description": "Deltoid focused full body session",
+    "time": "PM",
+    "date": "2025-11-30"
+  },
+  {
+    "id": "mon-am-dec1",
+    "name": "Cardio Training",
+    "description": "Run or circuit training",
+    "time": "AM",
+    "date": "2025-12-01"
+  },
+  {
+    "id": "mon-pm-dec1",
+    "name": "Gym Session",
+    "description": "Lower focused full body session",
+    "time": "PM",
+    "date": "2025-12-01"
+  },
+  {
+    "id": "tue-am-dec2",
+    "name": "PT Session",
+    "description": "Changes weekly",
+    "time": "AM",
+    "date": "2025-12-02"
+  },
+  {
+    "id": "tue-pm-dec2",
+    "name": "Gym Session",
+    "description": "Chest focused full body session",
+    "time": "PM",
+    "date": "2025-12-02"
+  },
+  {
+    "id": "wed-am-dec3",
+    "name": "Strength/Cardio Circuit",
+    "description": "Mixed strength and cardio circuit training",
+    "time": "AM",
+    "date": "2025-12-03"
+  },
+  {
+    "id": "wed-pm-dec3",
+    "name": "Fully Clothed Swim",
+    "description": "Swim practice in full clothing",
+    "time": "PM",
+    "date": "2025-12-03"
+  },
+  {
+    "id": "thu-am-dec4",
+    "name": "Strength Training",
+    "description": "Circuit or gym session",
+    "time": "AM",
+    "date": "2025-12-04"
+  },
+  {
+    "id": "thu-pm-dec4",
+    "name": "Gym Session",
+    "description": "Back focused full body session",
+    "time": "PM",
+    "date": "2025-12-04"
+  },
+  {
+    "id": "fri-am-dec5",
+    "name": "Gym Session",
+    "description": "Lower focused full body 2",
+    "time": "AM",
+    "date": "2025-12-05"
+  },
+  {
+    "id": "sat-pm-dec6",
+    "name": "Boxing & Swimming",
+    "description": "Heavy bag work followed by swim",
+    "time": "PM",
+    "date": "2025-12-06"
+  },
+  {
+    "id": "sun-pm-dec7",
+    "name": "Gym Session",
+    "description": "Deltoid focused full body session",
+    "time": "PM",
+    "date": "2025-12-07"
+  },
+  {
+    "id": "mon-am-dec8",
+    "name": "Cardio Training",
+    "description": "Run or circuit training",
+    "time": "AM",
+    "date": "2025-12-08"
+  },
+  {
+    "id": "mon-pm-dec8",
+    "name": "Gym Session",
+    "description": "Lower focused full body session",
+    "time": "PM",
+    "date": "2025-12-08"
+  },
+  {
+    "id": "tue-am-dec9",
+    "name": "PT Session",
+    "description": "Changes weekly",
+    "time": "AM",
+    "date": "2025-12-09"
+  },
+  {
+    "id": "tue-pm-dec9",
+    "name": "Gym Session",
+    "description": "Chest focused full body session",
+    "time": "PM",
+    "date": "2025-12-09"
+  },
+  {
+    "id": "wed-am-dec10",
+    "name": "Strength/Cardio Circuit",
+    "description": "Mixed strength and cardio circuit training",
+    "time": "AM",
+    "date": "2025-12-10"
+  },
+  {
+    "id": "wed-pm-dec10",
+    "name": "Fully Clothed Swim",
+    "description": "Swim practice in full clothing",
+    "time": "PM",
+    "date": "2025-12-10"
+  },
+  {
+    "id": "thu-am-dec11",
+    "name": "Strength Training",
+    "description": "Circuit or gym session",
+    "time": "AM",
+    "date": "2025-12-11"
+  },
+  {
+    "id": "thu-pm-dec11",
+    "name": "Gym Session",
+    "description": "Back focused full body session",
+    "time": "PM",
+    "date": "2025-12-11"
+  },
+  {
+    "id": "fri-am-dec12",
+    "name": "Gym Session",
+    "description": "Lower focused full body 2",
+    "time": "AM",
+    "date": "2025-12-12"
+  },
+  {
+    "id": "sat-pm-dec13",
+    "name": "Boxing & Swimming",
+    "description": "Heavy bag work followed by swim",
+    "time": "PM",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "sun-pm-dec14",
+    "name": "Gym Session",
+    "description": "Deltoid focused full body session",
+    "time": "PM",
+    "date": "2025-12-14"
+  },
+  {
+    "id": "mon-am-dec15",
+    "name": "Cardio Training",
+    "description": "Run or circuit training",
+    "time": "AM",
+    "date": "2025-12-15"
+  },
+  {
+    "id": "mon-pm-dec15",
+    "name": "Gym Session",
+    "description": "Lower focused full body session",
+    "time": "PM",
+    "date": "2025-12-15"
+  },
+  {
+    "id": "tue-am-dec16",
+    "name": "PT Session",
+    "description": "Changes weekly",
+    "time": "AM",
+    "date": "2025-12-16"
+  },
+  {
+    "id": "tue-pm-dec16",
+    "name": "Gym Session",
+    "description": "Chest focused full body session",
+    "time": "PM",
+    "date": "2025-12-16"
+  },
+  {
+    "id": "wed-am-dec17",
+    "name": "Strength/Cardio Circuit",
+    "description": "Mixed strength and cardio circuit training",
+    "time": "AM",
+    "date": "2025-12-17"
+  },
+  {
+    "id": "wed-pm-dec17",
+    "name": "Fully Clothed Swim",
+    "description": "Swim practice in full clothing",
+    "time": "PM",
+    "date": "2025-12-17"
+  },
+  {
+    "id": "thu-am-dec18",
+    "name": "Strength Training",
+    "description": "Circuit or gym session",
+    "time": "AM",
+    "date": "2025-12-18"
+  },
+  {
+    "id": "thu-pm-dec18",
+    "name": "Gym Session",
+    "description": "Back focused full body session",
+    "time": "PM",
+    "date": "2025-12-18"
+  },
+  {
+    "id": "fri-am-dec19",
+    "name": "Gym Session",
+    "description": "Lower focused full body 2",
+    "time": "AM",
+    "date": "2025-12-19"
+  },
+  {
+    "id": "sat-pm-dec20",
+    "name": "Boxing & Swimming",
+    "description": "Heavy bag work followed by swim",
+    "time": "PM",
+    "date": "2025-12-20"
+  },
+  {
+    "id": "sun-pm-dec21",
+    "name": "Gym Session",
+    "description": "Deltoid focused full body session",
+    "time": "PM",
+    "date": "2025-12-21"
+  },
+  {
+    "id": "mon-am-dec22",
+    "name": "Cardio Training",
+    "description": "Run or circuit training",
+    "time": "AM",
+    "date": "2025-12-22"
+  },
+  {
+    "id": "mon-pm-dec22",
+    "name": "Gym Session",
+    "description": "Lower focused full body session",
+    "time": "PM",
+    "date": "2025-12-22"
+  },
+  {
+    "id": "tue-am-dec23",
+    "name": "PT Session",
+    "description": "Changes weekly",
+    "time": "AM",
+    "date": "2025-12-23"
+  },
+  {
+    "id": "tue-pm-dec23",
+    "name": "Gym Session",
+    "description": "Chest focused full body session",
+    "time": "PM",
+    "date": "2025-12-23"
+  },
+  {
+    "id": "wed-am-dec24",
+    "name": "Strength/Cardio Circuit",
+    "description": "Mixed strength and cardio circuit training",
+    "time": "AM",
+    "date": "2025-12-24"
+  },
+  {
+    "id": "wed-pm-dec24",
+    "name": "Fully Clothed Swim",
+    "description": "Swim practice in full clothing",
+    "time": "PM",
+    "date": "2025-12-24"
+  },
+  {
+    "id": "thu-am-dec25",
+    "name": "Strength Training",
+    "description": "Circuit or gym session",
+    "time": "AM",
+    "date": "2025-12-25"
+  },
+  {
+    "id": "thu-pm-dec25",
+    "name": "Gym Session",
+    "description": "Back focused full body session",
+    "time": "PM",
+    "date": "2025-12-25"
+  },
+  {
+    "id": "fri-am-dec26",
+    "name": "Gym Session",
+    "description": "Lower focused full body 2",
+    "time": "AM",
+    "date": "2025-12-26"
+  },
+  {
+    "id": "fri-pm-dec26-special",
+    "name": "Half Marathon Run",
+    "description": "Last Friday of the month - 21km run",
+    "time": "PM",
+    "date": "2025-12-26"
+  },
+  {
+    "id": "sat-pm-dec27",
+    "name": "Boxing & Swimming",
+    "description": "Heavy bag work followed by swim",
+    "time": "PM",
+    "date": "2025-12-27"
+  },
+  {
+    "id": "sun-pm-dec28",
+    "name": "Gym Session",
+    "description": "Deltoid focused full body session",
+    "time": "PM",
+    "date": "2025-12-28"
+  },
+  {
+    "id": "mon-am-dec29",
+    "name": "Cardio Training",
+    "description": "Run or circuit training",
+    "time": "AM",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "mon-pm-dec29",
+    "name": "Gym Session",
+    "description": "Lower focused full body session",
+    "time": "PM",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "tue-am-dec30",
+    "name": "PT Session",
+    "description": "Changes weekly",
+    "time": "AM",
+    "date": "2025-12-30"
+  },
+  {
+    "id": "tue-pm-dec30",
+    "name": "Gym Session",
+    "description": "Chest focused full body session",
+    "time": "PM",
+    "date": "2025-12-30"
+  },
+  {
+    "id": "wed-am-dec31",
+    "name": "Strength/Cardio Circuit",
+    "description": "Mixed strength and cardio circuit training",
+    "time": "AM",
+    "date": "2025-12-31"
+  },
+  {
+    "id": "wed-pm-dec31",
+    "name": "Fully Clothed Swim",
+    "description": "Swim practice in full clothing",
+    "time": "PM",
+    "date": "2025-12-31"
   }
 ]
