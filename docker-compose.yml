@@ -9,3 +9,8 @@ services:
     restart: unless-stopped
     environment:
       - NODE_ENV=production
+    volumes:
+      - fit-data:/app/dist
+
+volumes:
+  fit-data:
