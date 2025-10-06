@@ -32,6 +32,10 @@ RUN adduser --system --uid 1001 react
 # Copy built files from builder stage
 COPY --from=builder --chown=react:nodejs /app/dist /app/dist
 
+# Create data directory and copy activities.json
+RUN mkdir -p /app/data
+COPY --from=builder --chown=react:nodejs /app/dist/data/activities.json /app/data/activities.json
+
 USER react
 
 EXPOSE 3000

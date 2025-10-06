@@ -10,7 +10,7 @@ services:
     environment:
       - NODE_ENV=production
     volumes:
-      - fit-data:/app/data
+      - fit-data:/app/dist/data
 
 volumes:
   fit-data:
