@@ -15,7 +15,7 @@ const App = () => {
   const currentMonth = currentDate.getMonth();
 
   useEffect(() => {
-    fetch('/activities.json')
+    fetch('/data/activities.json')
       .then(res => res.json())
       .then(data => {
         setActivities(data);
