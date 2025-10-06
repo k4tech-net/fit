@@ -1,6 +1,7 @@
 import type { Activity } from '../types';
 import './ActivityModal.css';
 import { getActivityColor, getActivityColorByType } from '../utils/activityColors';
+import { useEffect } from 'react';
 
 interface ActivityModalProps {
   activity: Activity | null;
@@ -8,6 +9,15 @@ interface ActivityModalProps {
 }
 
 const ActivityModal = ({ activity, onClose }: ActivityModalProps) => {
+  useEffect(() => {
+    if (activity) {
+      document.body.style.overflow = 'hidden';
+      return () => {
+        document.body.style.overflow = '';
+      };
+    }
+  }, [activity]);
+
   if (!activity) return null;
 
   const emailSubject = `Join: ${activity.name} on ${activity.date} (${activity.time})`;
