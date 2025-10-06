@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  fit:
+    image: ghcr.io/k4tech-net/fit:latest
+    container_name: fit
+    ports:
+      - "3001:3000"
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
