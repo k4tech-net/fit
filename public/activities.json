@@ -4,986 +4,1268 @@
     "name": "Cardio Training",
     "description": "Run or circuit training",
     "time": "AM",
-    "date": "2025-10-06"
+    "date": "2025-10-06",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "mon-pm-1",
     "name": "Gym Session",
     "description": "Lower focused full body session",
     "time": "PM",
-    "date": "2025-10-06"
+    "date": "2025-10-06",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "tue-am-1",
     "name": "PT Session",
     "description": "Changes weekly",
     "time": "AM",
-    "date": "2025-10-07"
+    "date": "2025-10-07",
+    "target": "Other",
+    "type": "Workout"
   },
   {
     "id": "tue-pm-1",
     "name": "Gym Session",
     "description": "Chest focused full body session",
     "time": "PM",
-    "date": "2025-10-07"
+    "date": "2025-10-07",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "wed-am-1",
     "name": "Strength/Cardio Circuit",
     "description": "Mixed strength and cardio circuit training",
     "time": "AM",
-    "date": "2025-10-08"
+    "date": "2025-10-08",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "wed-pm-1",
     "name": "Fully Clothed Swim",
     "description": "Swim practice in full clothing",
     "time": "PM",
-    "date": "2025-10-08"
+    "date": "2025-10-08",
+    "target": "Cardio",
+    "type": "Endurance"
   },
   {
     "id": "thu-am-1",
     "name": "Strength Training",
     "description": "Circuit or gym session",
     "time": "AM",
-    "date": "2025-10-09"
+    "date": "2025-10-09",
+    "target": "Strength",
+    "type": "Circuit"
   },
   {
     "id": "thu-pm-1",
     "name": "Gym Session",
     "description": "Back focused full body session",
     "time": "PM",
-    "date": "2025-10-09"
+    "date": "2025-10-09",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "fri-am-1",
     "name": "Gym Session",
     "description": "Lower focused full body 2",
     "time": "AM",
-    "date": "2025-10-10"
+    "date": "2025-10-10",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "sat-pm-1",
     "name": "Boxing & Swimming",
     "description": "Heavy bag work followed by swim",
     "time": "PM",
-    "date": "2025-10-11"
+    "date": "2025-10-11",
+    "target": "Cardio",
+    "type": "Sport"
   },
   {
     "id": "sun-pm-1",
     "name": "Gym Session",
     "description": "Deltoid focused full body session",
     "time": "PM",
-    "date": "2025-10-12"
+    "date": "2025-10-12",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "mon-am-2",
     "name": "Cardio Training",
     "description": "Run or circuit training",
     "time": "AM",
-    "date": "2025-10-13"
+    "date": "2025-10-13",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "mon-pm-2",
     "name": "Gym Session",
     "description": "Lower focused full body session",
     "time": "PM",
-    "date": "2025-10-13"
+    "date": "2025-10-13",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "tue-am-2",
     "name": "PT Session",
     "description": "Changes weekly",
     "time": "AM",
-    "date": "2025-10-14"
+    "date": "2025-10-14",
+    "target": "Other",
+    "type": "Workout"
   },
   {
     "id": "tue-pm-2",
     "name": "Gym Session",
     "description": "Chest focused full body session",
     "time": "PM",
-    "date": "2025-10-14"
+    "date": "2025-10-14",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "wed-am-2",
     "name": "Strength/Cardio Circuit",
     "description": "Mixed strength and cardio circuit training",
     "time": "AM",
-    "date": "2025-10-15"
+    "date": "2025-10-15",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "wed-pm-2",
     "name": "Fully Clothed Swim",
     "description": "Swim practice in full clothing",
     "time": "PM",
-    "date": "2025-10-15"
+    "date": "2025-10-15",
+    "target": "Cardio",
+    "type": "Endurance"
   },
   {
     "id": "thu-am-2",
     "name": "Strength Training",
     "description": "Circuit or gym session",
     "time": "AM",
-    "date": "2025-10-16"
+    "date": "2025-10-16",
+    "target": "Strength",
+    "type": "Circuit"
   },
   {
     "id": "thu-pm-2",
     "name": "Gym Session",
     "description": "Back focused full body session",
     "time": "PM",
-    "date": "2025-10-16"
+    "date": "2025-10-16",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "fri-am-2",
     "name": "Gym Session",
     "description": "Lower focused full body 2",
     "time": "AM",
-    "date": "2025-10-17"
+    "date": "2025-10-17",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "sat-pm-2",
     "name": "Boxing & Swimming",
     "description": "Heavy bag work followed by swim",
     "time": "PM",
-    "date": "2025-10-18"
+    "date": "2025-10-18",
+    "target": "Cardio",
+    "type": "Sport"
   },
   {
     "id": "sun-pm-2",
     "name": "Gym Session",
     "description": "Deltoid focused full body session",
     "time": "PM",
-    "date": "2025-10-19"
+    "date": "2025-10-19",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "mon-am-3",
     "name": "Cardio Training",
     "description": "Run or circuit training",
     "time": "AM",
-    "date": "2025-10-20"
+    "date": "2025-10-20",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "mon-pm-3",
     "name": "Gym Session",
     "description": "Lower focused full body session",
     "time": "PM",
-    "date": "2025-10-20"
+    "date": "2025-10-20",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "tue-am-3",
     "name": "PT Session",
     "description": "Changes weekly",
     "time": "AM",
-    "date": "2025-10-21"
+    "date": "2025-10-21",
+    "target": "Other",
+    "type": "Workout"
   },
   {
     "id": "tue-pm-3",
     "name": "Gym Session",
     "description": "Chest focused full body session",
     "time": "PM",
-    "date": "2025-10-21"
+    "date": "2025-10-21",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "wed-am-3",
     "name": "Strength/Cardio Circuit",
     "description": "Mixed strength and cardio circuit training",
     "time": "AM",
-    "date": "2025-10-22"
+    "date": "2025-10-22",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "wed-pm-3",
     "name": "Fully Clothed Swim",
     "description": "Swim practice in full clothing",
     "time": "PM",
-    "date": "2025-10-22"
+    "date": "2025-10-22",
+    "target": "Cardio",
+    "type": "Endurance"
   },
   {
     "id": "thu-am-3",
     "name": "Strength Training",
     "description": "Circuit or gym session",
     "time": "AM",
-    "date": "2025-10-23"
+    "date": "2025-10-23",
+    "target": "Strength",
+    "type": "Circuit"
   },
   {
     "id": "thu-pm-3",
     "name": "Gym Session",
     "description": "Back focused full body session",
     "time": "PM",
-    "date": "2025-10-23"
+    "date": "2025-10-23",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "fri-am-3",
     "name": "Gym Session",
     "description": "Lower focused full body 2",
     "time": "AM",
-    "date": "2025-10-24"
+    "date": "2025-10-24",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "sat-pm-3",
     "name": "Boxing & Swimming",
     "description": "Heavy bag work followed by swim",
     "time": "PM",
-    "date": "2025-10-25"
+    "date": "2025-10-25",
+    "target": "Cardio",
+    "type": "Sport"
   },
   {
     "id": "sun-pm-3",
     "name": "Gym Session",
     "description": "Deltoid focused full body session",
     "time": "PM",
-    "date": "2025-10-26"
+    "date": "2025-10-26",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "mon-am-4",
     "name": "Cardio Training",
     "description": "Run or circuit training",
     "time": "AM",
-    "date": "2025-10-27"
+    "date": "2025-10-27",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "mon-pm-4",
     "name": "Gym Session",
     "description": "Lower focused full body session",
     "time": "PM",
-    "date": "2025-10-27"
+    "date": "2025-10-27",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "tue-am-4",
     "name": "PT Session",
     "description": "Changes weekly",
     "time": "AM",
-    "date": "2025-10-28"
+    "date": "2025-10-28",
+    "target": "Other",
+    "type": "Workout"
   },
   {
     "id": "tue-pm-4",
     "name": "Gym Session",
     "description": "Chest focused full body session",
     "time": "PM",
-    "date": "2025-10-28"
+    "date": "2025-10-28",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "wed-am-4",
     "name": "Strength/Cardio Circuit",
     "description": "Mixed strength and cardio circuit training",
     "time": "AM",
-    "date": "2025-10-29"
+    "date": "2025-10-29",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "wed-pm-4",
     "name": "Fully Clothed Swim",
     "description": "Swim practice in full clothing",
     "time": "PM",
-    "date": "2025-10-29"
+    "date": "2025-10-29",
+    "target": "Cardio",
+    "type": "Endurance"
   },
   {
     "id": "thu-am-4",
     "name": "Strength Training",
     "description": "Circuit or gym session",
     "time": "AM",
-    "date": "2025-10-30"
+    "date": "2025-10-30",
+    "target": "Strength",
+    "type": "Circuit"
   },
   {
     "id": "thu-pm-4",
     "name": "Gym Session",
     "description": "Back focused full body session",
     "time": "PM",
-    "date": "2025-10-30"
+    "date": "2025-10-30",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "fri-am-4",
     "name": "Gym Session",
     "description": "Lower focused full body 2",
     "time": "AM",
-    "date": "2025-10-31"
+    "date": "2025-10-31",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "fri-pm-4-special",
     "name": "Half Marathon Run",
     "description": "Last Friday of the month - 21km run",
     "time": "PM",
-    "date": "2025-10-31"
+    "date": "2025-10-31",
+    "target": "Cardio",
+    "type": "Endurance"
   },
   {
     "id": "sat-pm-nov1",
     "name": "Boxing & Swimming",
     "description": "Heavy bag work followed by swim",
     "time": "PM",
-    "date": "2025-11-01"
+    "date": "2025-11-01",
+    "target": "Cardio",
+    "type": "Sport"
   },
   {
     "id": "sun-pm-nov2",
     "name": "Gym Session",
     "description": "Deltoid focused full body session",
     "time": "PM",
-    "date": "2025-11-02"
+    "date": "2025-11-02",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "mon-am-nov3",
     "name": "Cardio Training",
     "description": "Run or circuit training",
     "time": "AM",
-    "date": "2025-11-03"
+    "date": "2025-11-03",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "mon-pm-nov3",
     "name": "Gym Session",
     "description": "Lower focused full body session",
     "time": "PM",
-    "date": "2025-11-03"
+    "date": "2025-11-03",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "tue-am-nov4",
     "name": "PT Session",
     "description": "Changes weekly",
     "time": "AM",
-    "date": "2025-11-04"
+    "date": "2025-11-04",
+    "target": "Other",
+    "type": "Workout"
   },
   {
     "id": "tue-pm-nov4",
     "name": "Gym Session",
     "description": "Chest focused full body session",
     "time": "PM",
-    "date": "2025-11-04"
+    "date": "2025-11-04",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "wed-am-nov5",
     "name": "Strength/Cardio Circuit",
     "description": "Mixed strength and cardio circuit training",
     "time": "AM",
-    "date": "2025-11-05"
+    "date": "2025-11-05",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "wed-pm-nov5",
     "name": "Fully Clothed Swim",
     "description": "Swim practice in full clothing",
     "time": "PM",
-    "date": "2025-11-05"
+    "date": "2025-11-05",
+    "target": "Cardio",
+    "type": "Endurance"
   },
   {
     "id": "thu-am-nov6",
     "name": "Strength Training",
     "description": "Circuit or gym session",
     "time": "AM",
-    "date": "2025-11-06"
+    "date": "2025-11-06",
+    "target": "Strength",
+    "type": "Circuit"
   },
   {
     "id": "thu-pm-nov6",
     "name": "Gym Session",
     "description": "Back focused full body session",
     "time": "PM",
-    "date": "2025-11-06"
+    "date": "2025-11-06",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "fri-am-nov7",
     "name": "Gym Session",
     "description": "Lower focused full body 2",
     "time": "AM",
-    "date": "2025-11-07"
+    "date": "2025-11-07",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "sat-pm-nov8",
     "name": "Boxing & Swimming",
     "description": "Heavy bag work followed by swim",
     "time": "PM",
-    "date": "2025-11-08"
+    "date": "2025-11-08",
+    "target": "Cardio",
+    "type": "Sport"
   },
   {
     "id": "sun-pm-nov9",
     "name": "Gym Session",
     "description": "Deltoid focused full body session",
     "time": "PM",
-    "date": "2025-11-09"
+    "date": "2025-11-09",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "mon-am-nov10",
     "name": "Cardio Training",
     "description": "Run or circuit training",
     "time": "AM",
-    "date": "2025-11-10"
+    "date": "2025-11-10",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "mon-pm-nov10",
     "name": "Gym Session",
     "description": "Lower focused full body session",
     "time": "PM",
-    "date": "2025-11-10"
+    "date": "2025-11-10",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "tue-am-nov11",
     "name": "PT Session",
     "description": "Changes weekly",
     "time": "AM",
-    "date": "2025-11-11"
+    "date": "2025-11-11",
+    "target": "Other",
+    "type": "Workout"
   },
   {
     "id": "tue-pm-nov11",
     "name": "Gym Session",
     "description": "Chest focused full body session",
     "time": "PM",
-    "date": "2025-11-11"
+    "date": "2025-11-11",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "wed-am-nov12",
     "name": "Strength/Cardio Circuit",
     "description": "Mixed strength and cardio circuit training",
     "time": "AM",
-    "date": "2025-11-12"
+    "date": "2025-11-12",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "wed-pm-nov12",
     "name": "Fully Clothed Swim",
     "description": "Swim practice in full clothing",
     "time": "PM",
-    "date": "2025-11-12"
+    "date": "2025-11-12",
+    "target": "Cardio",
+    "type": "Endurance"
   },
   {
     "id": "thu-am-nov13",
     "name": "Strength Training",
     "description": "Circuit or gym session",
     "time": "AM",
-    "date": "2025-11-13"
+    "date": "2025-11-13",
+    "target": "Strength",
+    "type": "Circuit"
   },
   {
     "id": "thu-pm-nov13",
     "name": "Gym Session",
     "description": "Back focused full body session",
     "time": "PM",
-    "date": "2025-11-13"
+    "date": "2025-11-13",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "fri-am-nov14",
     "name": "Gym Session",
     "description": "Lower focused full body 2",
     "time": "AM",
-    "date": "2025-11-14"
+    "date": "2025-11-14",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "sat-pm-nov15",
     "name": "Boxing & Swimming",
     "description": "Heavy bag work followed by swim",
     "time": "PM",
-    "date": "2025-11-15"
+    "date": "2025-11-15",
+    "target": "Cardio",
+    "type": "Sport"
   },
   {
     "id": "sun-pm-nov16",
     "name": "Gym Session",
     "description": "Deltoid focused full body session",
     "time": "PM",
-    "date": "2025-11-16"
+    "date": "2025-11-16",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "mon-am-nov17",
     "name": "Cardio Training",
     "description": "Run or circuit training",
     "time": "AM",
-    "date": "2025-11-17"
+    "date": "2025-11-17",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "mon-pm-nov17",
     "name": "Gym Session",
     "description": "Lower focused full body session",
     "time": "PM",
-    "date": "2025-11-17"
+    "date": "2025-11-17",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "tue-am-nov18",
     "name": "PT Session",
     "description": "Changes weekly",
     "time": "AM",
-    "date": "2025-11-18"
+    "date": "2025-11-18",
+    "target": "Other",
+    "type": "Workout"
   },
   {
     "id": "tue-pm-nov18",
     "name": "Gym Session",
     "description": "Chest focused full body session",
     "time": "PM",
-    "date": "2025-11-18"
+    "date": "2025-11-18",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "wed-am-nov19",
     "name": "Strength/Cardio Circuit",
     "description": "Mixed strength and cardio circuit training",
     "time": "AM",
-    "date": "2025-11-19"
+    "date": "2025-11-19",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "wed-pm-nov19",
     "name": "Fully Clothed Swim",
     "description": "Swim practice in full clothing",
     "time": "PM",
-    "date": "2025-11-19"
+    "date": "2025-11-19",
+    "target": "Cardio",
+    "type": "Endurance"
   },
   {
     "id": "thu-am-nov20",
     "name": "Strength Training",
     "description": "Circuit or gym session",
     "time": "AM",
-    "date": "2025-11-20"
+    "date": "2025-11-20",
+    "target": "Strength",
+    "type": "Circuit"
   },
   {
     "id": "thu-pm-nov20",
     "name": "Gym Session",
     "description": "Back focused full body session",
     "time": "PM",
-    "date": "2025-11-20"
+    "date": "2025-11-20",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "fri-am-nov21",
     "name": "Gym Session",
     "description": "Lower focused full body 2",
     "time": "AM",
-    "date": "2025-11-21"
+    "date": "2025-11-21",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "sat-pm-nov22",
     "name": "Boxing & Swimming",
     "description": "Heavy bag work followed by swim",
     "time": "PM",
-    "date": "2025-11-22"
+    "date": "2025-11-22",
+    "target": "Cardio",
+    "type": "Sport"
   },
   {
     "id": "sun-pm-nov23",
     "name": "Gym Session",
     "description": "Deltoid focused full body session",
     "time": "PM",
-    "date": "2025-11-23"
+    "date": "2025-11-23",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "mon-am-nov24",
     "name": "Cardio Training",
     "description": "Run or circuit training",
     "time": "AM",
-    "date": "2025-11-24"
+    "date": "2025-11-24",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "mon-pm-nov24",
     "name": "Gym Session",
     "description": "Lower focused full body session",
     "time": "PM",
-    "date": "2025-11-24"
+    "date": "2025-11-24",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "tue-am-nov25",
     "name": "PT Session",
     "description": "Changes weekly",
     "time": "AM",
-    "date": "2025-11-25"
+    "date": "2025-11-25",
+    "target": "Other",
+    "type": "Workout"
   },
   {
     "id": "tue-pm-nov25",
     "name": "Gym Session",
     "description": "Chest focused full body session",
     "time": "PM",
-    "date": "2025-11-25"
+    "date": "2025-11-25",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "wed-am-nov26",
     "name": "Strength/Cardio Circuit",
     "description": "Mixed strength and cardio circuit training",
     "time": "AM",
-    "date": "2025-11-26"
+    "date": "2025-11-26",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "wed-pm-nov26",
     "name": "Fully Clothed Swim",
     "description": "Swim practice in full clothing",
     "time": "PM",
-    "date": "2025-11-26"
+    "date": "2025-11-26",
+    "target": "Cardio",
+    "type": "Endurance"
   },
   {
     "id": "thu-am-nov27",
     "name": "Strength Training",
     "description": "Circuit or gym session",
     "time": "AM",
-    "date": "2025-11-27"
+    "date": "2025-11-27",
+    "target": "Strength",
+    "type": "Circuit"
   },
   {
     "id": "thu-pm-nov27",
     "name": "Gym Session",
     "description": "Back focused full body session",
     "time": "PM",
-    "date": "2025-11-27"
+    "date": "2025-11-27",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "fri-am-nov28",
     "name": "Gym Session",
     "description": "Lower focused full body 2",
     "time": "AM",
-    "date": "2025-11-28"
+    "date": "2025-11-28",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "fri-pm-nov28-special",
     "name": "Half Marathon Run",
     "description": "Last Friday of the month - 21km run",
     "time": "PM",
-    "date": "2025-11-28"
+    "date": "2025-11-28",
+    "target": "Cardio",
+    "type": "Endurance"
   },
   {
     "id": "sat-pm-nov29",
     "name": "Boxing & Swimming",
     "description": "Heavy bag work followed by swim",
     "time": "PM",
-    "date": "2025-11-29"
+    "date": "2025-11-29",
+    "target": "Cardio",
+    "type": "Sport"
   },
   {
     "id": "sun-pm-nov30",
     "name": "Gym Session",
     "description": "Deltoid focused full body session",
     "time": "PM",
-    "date": "2025-11-30"
+    "date": "2025-11-30",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "mon-am-dec1",
     "name": "Cardio Training",
     "description": "Run or circuit training",
     "time": "AM",
-    "date": "2025-12-01"
+    "date": "2025-12-01",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "mon-pm-dec1",
     "name": "Gym Session",
     "description": "Lower focused full body session",
     "time": "PM",
-    "date": "2025-12-01"
+    "date": "2025-12-01",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "tue-am-dec2",
     "name": "PT Session",
     "description": "Changes weekly",
     "time": "AM",
-    "date": "2025-12-02"
+    "date": "2025-12-02",
+    "target": "Other",
+    "type": "Workout"
   },
   {
     "id": "tue-pm-dec2",
     "name": "Gym Session",
     "description": "Chest focused full body session",
     "time": "PM",
-    "date": "2025-12-02"
+    "date": "2025-12-02",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "wed-am-dec3",
     "name": "Strength/Cardio Circuit",
     "description": "Mixed strength and cardio circuit training",
     "time": "AM",
-    "date": "2025-12-03"
+    "date": "2025-12-03",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "wed-pm-dec3",
     "name": "Fully Clothed Swim",
     "description": "Swim practice in full clothing",
     "time": "PM",
-    "date": "2025-12-03"
+    "date": "2025-12-03",
+    "target": "Cardio",
+    "type": "Endurance"
   },
   {
     "id": "thu-am-dec4",
     "name": "Strength Training",
     "description": "Circuit or gym session",
     "time": "AM",
-    "date": "2025-12-04"
+    "date": "2025-12-04",
+    "target": "Strength",
+    "type": "Circuit"
   },
   {
     "id": "thu-pm-dec4",
     "name": "Gym Session",
     "description": "Back focused full body session",
     "time": "PM",
-    "date": "2025-12-04"
+    "date": "2025-12-04",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "fri-am-dec5",
     "name": "Gym Session",
     "description": "Lower focused full body 2",
     "time": "AM",
-    "date": "2025-12-05"
+    "date": "2025-12-05",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "sat-pm-dec6",
     "name": "Boxing & Swimming",
     "description": "Heavy bag work followed by swim",
     "time": "PM",
-    "date": "2025-12-06"
+    "date": "2025-12-06",
+    "target": "Cardio",
+    "type": "Sport"
   },
   {
     "id": "sun-pm-dec7",
     "name": "Gym Session",
     "description": "Deltoid focused full body session",
     "time": "PM",
-    "date": "2025-12-07"
+    "date": "2025-12-07",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "mon-am-dec8",
     "name": "Cardio Training",
     "description": "Run or circuit training",
     "time": "AM",
-    "date": "2025-12-08"
+    "date": "2025-12-08",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "mon-pm-dec8",
     "name": "Gym Session",
     "description": "Lower focused full body session",
     "time": "PM",
-    "date": "2025-12-08"
+    "date": "2025-12-08",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "tue-am-dec9",
     "name": "PT Session",
     "description": "Changes weekly",
     "time": "AM",
-    "date": "2025-12-09"
+    "date": "2025-12-09",
+    "target": "Other",
+    "type": "Workout"
   },
   {
     "id": "tue-pm-dec9",
     "name": "Gym Session",
     "description": "Chest focused full body session",
     "time": "PM",
-    "date": "2025-12-09"
+    "date": "2025-12-09",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "wed-am-dec10",
     "name": "Strength/Cardio Circuit",
     "description": "Mixed strength and cardio circuit training",
     "time": "AM",
-    "date": "2025-12-10"
+    "date": "2025-12-10",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "wed-pm-dec10",
     "name": "Fully Clothed Swim",
     "description": "Swim practice in full clothing",
     "time": "PM",
-    "date": "2025-12-10"
+    "date": "2025-12-10",
+    "target": "Cardio",
+    "type": "Endurance"
   },
   {
     "id": "thu-am-dec11",
     "name": "Strength Training",
     "description": "Circuit or gym session",
     "time": "AM",
-    "date": "2025-12-11"
+    "date": "2025-12-11",
+    "target": "Strength",
+    "type": "Circuit"
   },
   {
     "id": "thu-pm-dec11",
     "name": "Gym Session",
     "description": "Back focused full body session",
     "time": "PM",
-    "date": "2025-12-11"
+    "date": "2025-12-11",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "fri-am-dec12",
     "name": "Gym Session",
     "description": "Lower focused full body 2",
     "time": "AM",
-    "date": "2025-12-12"
+    "date": "2025-12-12",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "sat-pm-dec13",
     "name": "Boxing & Swimming",
     "description": "Heavy bag work followed by swim",
     "time": "PM",
-    "date": "2025-12-13"
+    "date": "2025-12-13",
+    "target": "Cardio",
+    "type": "Sport"
   },
   {
     "id": "sun-pm-dec14",
     "name": "Gym Session",
     "description": "Deltoid focused full body session",
     "time": "PM",
-    "date": "2025-12-14"
+    "date": "2025-12-14",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "mon-am-dec15",
     "name": "Cardio Training",
     "description": "Run or circuit training",
     "time": "AM",
-    "date": "2025-12-15"
+    "date": "2025-12-15",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "mon-pm-dec15",
     "name": "Gym Session",
     "description": "Lower focused full body session",
     "time": "PM",
-    "date": "2025-12-15"
+    "date": "2025-12-15",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "tue-am-dec16",
     "name": "PT Session",
     "description": "Changes weekly",
     "time": "AM",
-    "date": "2025-12-16"
+    "date": "2025-12-16",
+    "target": "Other",
+    "type": "Workout"
   },
   {
     "id": "tue-pm-dec16",
     "name": "Gym Session",
     "description": "Chest focused full body session",
     "time": "PM",
-    "date": "2025-12-16"
+    "date": "2025-12-16",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "wed-am-dec17",
     "name": "Strength/Cardio Circuit",
     "description": "Mixed strength and cardio circuit training",
     "time": "AM",
-    "date": "2025-12-17"
+    "date": "2025-12-17",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "wed-pm-dec17",
     "name": "Fully Clothed Swim",
     "description": "Swim practice in full clothing",
     "time": "PM",
-    "date": "2025-12-17"
+    "date": "2025-12-17",
+    "target": "Cardio",
+    "type": "Endurance"
   },
   {
     "id": "thu-am-dec18",
     "name": "Strength Training",
     "description": "Circuit or gym session",
     "time": "AM",
-    "date": "2025-12-18"
+    "date": "2025-12-18",
+    "target": "Strength",
+    "type": "Circuit"
   },
   {
     "id": "thu-pm-dec18",
     "name": "Gym Session",
     "description": "Back focused full body session",
     "time": "PM",
-    "date": "2025-12-18"
+    "date": "2025-12-18",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "fri-am-dec19",
     "name": "Gym Session",
     "description": "Lower focused full body 2",
     "time": "AM",
-    "date": "2025-12-19"
+    "date": "2025-12-19",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "sat-pm-dec20",
     "name": "Boxing & Swimming",
     "description": "Heavy bag work followed by swim",
     "time": "PM",
-    "date": "2025-12-20"
+    "date": "2025-12-20",
+    "target": "Cardio",
+    "type": "Sport"
   },
   {
     "id": "sun-pm-dec21",
     "name": "Gym Session",
     "description": "Deltoid focused full body session",
     "time": "PM",
-    "date": "2025-12-21"
+    "date": "2025-12-21",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "mon-am-dec22",
     "name": "Cardio Training",
     "description": "Run or circuit training",
     "time": "AM",
-    "date": "2025-12-22"
+    "date": "2025-12-22",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "mon-pm-dec22",
     "name": "Gym Session",
     "description": "Lower focused full body session",
     "time": "PM",
-    "date": "2025-12-22"
+    "date": "2025-12-22",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "tue-am-dec23",
     "name": "PT Session",
     "description": "Changes weekly",
     "time": "AM",
-    "date": "2025-12-23"
+    "date": "2025-12-23",
+    "target": "Other",
+    "type": "Workout"
   },
   {
     "id": "tue-pm-dec23",
     "name": "Gym Session",
     "description": "Chest focused full body session",
     "time": "PM",
-    "date": "2025-12-23"
+    "date": "2025-12-23",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "wed-am-dec24",
     "name": "Strength/Cardio Circuit",
     "description": "Mixed strength and cardio circuit training",
     "time": "AM",
-    "date": "2025-12-24"
+    "date": "2025-12-24",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "wed-pm-dec24",
     "name": "Fully Clothed Swim",
     "description": "Swim practice in full clothing",
     "time": "PM",
-    "date": "2025-12-24"
+    "date": "2025-12-24",
+    "target": "Cardio",
+    "type": "Endurance"
   },
   {
     "id": "thu-am-dec25",
     "name": "Strength Training",
     "description": "Circuit or gym session",
     "time": "AM",
-    "date": "2025-12-25"
+    "date": "2025-12-25",
+    "target": "Strength",
+    "type": "Circuit"
   },
   {
     "id": "thu-pm-dec25",
     "name": "Gym Session",
     "description": "Back focused full body session",
     "time": "PM",
-    "date": "2025-12-25"
+    "date": "2025-12-25",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "fri-am-dec26",
     "name": "Gym Session",
     "description": "Lower focused full body 2",
     "time": "AM",
-    "date": "2025-12-26"
+    "date": "2025-12-26",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "fri-pm-dec26-special",
     "name": "Half Marathon Run",
     "description": "Last Friday of the month - 21km run",
     "time": "PM",
-    "date": "2025-12-26"
+    "date": "2025-12-26",
+    "target": "Cardio",
+    "type": "Endurance"
   },
   {
     "id": "sat-pm-dec27",
     "name": "Boxing & Swimming",
     "description": "Heavy bag work followed by swim",
     "time": "PM",
-    "date": "2025-12-27"
+    "date": "2025-12-27",
+    "target": "Cardio",
+    "type": "Sport"
   },
   {
     "id": "sun-pm-dec28",
     "name": "Gym Session",
     "description": "Deltoid focused full body session",
     "time": "PM",
-    "date": "2025-12-28"
+    "date": "2025-12-28",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "mon-am-dec29",
     "name": "Cardio Training",
     "description": "Run or circuit training",
     "time": "AM",
-    "date": "2025-12-29"
+    "date": "2025-12-29",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "mon-pm-dec29",
     "name": "Gym Session",
     "description": "Lower focused full body session",
     "time": "PM",
-    "date": "2025-12-29"
+    "date": "2025-12-29",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "tue-am-dec30",
     "name": "PT Session",
     "description": "Changes weekly",
     "time": "AM",
-    "date": "2025-12-30"
+    "date": "2025-12-30",
+    "target": "Other",
+    "type": "Workout"
   },
   {
     "id": "tue-pm-dec30",
     "name": "Gym Session",
     "description": "Chest focused full body session",
     "time": "PM",
-    "date": "2025-12-30"
+    "date": "2025-12-30",
+    "target": "Strength",
+    "type": "Workout"
   },
   {
     "id": "wed-am-dec31",
     "name": "Strength/Cardio Circuit",
     "description": "Mixed strength and cardio circuit training",
     "time": "AM",
-    "date": "2025-12-31"
+    "date": "2025-12-31",
+    "target": "Cardio",
+    "type": "Circuit"
   },
   {
     "id": "wed-pm-dec31",
     "name": "Fully Clothed Swim",
     "description": "Swim practice in full clothing",
     "time": "PM",
-    "date": "2025-12-31"
+    "date": "2025-12-31",
+    "target": "Cardio",
+    "type": "Endurance"
   }
 ]

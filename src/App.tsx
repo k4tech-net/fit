@@ -1,8 +1,9 @@
 import { useState, useEffect } from 'react';
 import './App.css';
-import { Activity } from './types';
+import type { Activity } from './types';
 import ActivityModal from './components/ActivityModal';
 import { getDaysInMonth, getFirstDayOfMonth, getMonthName, formatDate, isToday } from './utils/calendar';
+import { getActivityColor, getActivityColorByType } from './utils/activityColors';
 
 const App = () => {
   const [selectedActivity, setSelectedActivity] = useState<Activity | null>(null);
@@ -83,7 +84,7 @@ const App = () => {
   return (
     <div className="app">
       <header className="header">
-        <h1>Fitness Schedule</h1>
+        <h1>Fit - K4Tech</h1>
         <p>Click on any activity to see details and contact info</p>
       </header>
 
@@ -113,6 +114,11 @@ const App = () => {
             const dayActivities = getActivitiesForDate(dateStr);
             const isTodayCell = isToday(currentYear, currentMonth, day);
 
+            const amTargetColor = dayActivities.am ? getActivityColor(dayActivities.am.target, dayActivities.am.type) : null;
+            const amTypeColor = dayActivities.am ? getActivityColorByType(dayActivities.am.type) : null;
+            const pmTargetColor = dayActivities.pm ? getActivityColor(dayActivities.pm.target, dayActivities.pm.type) : null;
+            const pmTypeColor = dayActivities.pm ? getActivityColorByType(dayActivities.pm.type) : null;
+
             return (
               <div key={day} className={`calendar-day ${isTodayCell ? 'today' : ''}`}>
                 <div className="day-number">{day}</div>
@@ -120,15 +126,23 @@ const App = () => {
                   <div
                     className={`activity-slot am ${dayActivities.am ? 'has-activity' : ''}`}
                     onClick={() => dayActivities.am && setSelectedActivity(dayActivities.am)}
+                    style={amTargetColor && amTypeColor ? {
+                      borderColor: amTargetColor.border,
+                      background: `linear-gradient(135deg, ${amTargetColor.calendarBackground}, ${amTypeColor.calendarBackground})`
+                    } : {}}
                   >
-                    <span className="time-badge">AM</span>
+                    <span className="time-badge" style={amTargetColor ? { color: amTargetColor.text } : {}}>AM</span>
                     {dayActivities.am && <span className="activity-name">{dayActivities.am.name}</span>}
                   </div>
                   <div
                     className={`activity-slot pm ${dayActivities.pm ? 'has-activity' : ''}`}
                     onClick={() => dayActivities.pm && setSelectedActivity(dayActivities.pm)}
+                    style={pmTargetColor && pmTypeColor ? {
+                      borderColor: pmTargetColor.border,
+                      background: `linear-gradient(135deg, ${pmTargetColor.calendarBackground}, ${pmTypeColor.calendarBackground})`
+                    } : {}}
                   >
-                    <span className="time-badge">PM</span>
+                    <span className="time-badge" style={pmTargetColor ? { color: pmTargetColor.text } : {}}>PM</span>
                     {dayActivities.pm && <span className="activity-name">{dayActivities.pm.name}</span>}
                   </div>
                 </div>

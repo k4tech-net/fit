@@ -14,7 +14,7 @@
 
 .modal-content {
   background: var(--bg-secondary);
-  border: 1px solid var(--border-color);
+  border: none;
   border-radius: 0;
   padding: 2rem;
   max-width: 500px;
@@ -25,24 +25,20 @@
   overflow-y: auto;
 }
 
-.modal-content::before {
-  content: '';
+.modal-accent-top {
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   height: 2px;
-  background: linear-gradient(90deg, var(--accent-primary), var(--accent-secondary));
 }
 
-.modal-content::after {
-  content: '';
+.modal-accent-left {
   position: absolute;
   top: 0;
   bottom: 0;
   left: 0;
   width: 2px;
-  background: linear-gradient(180deg, var(--accent-primary), transparent);
 }
 
 .modal-close {
@@ -100,15 +96,6 @@
   padding-bottom: 0.5rem;
 }
 
-.modal-content h2::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 40px;
-  height: 2px;
-  background: var(--accent-primary);
-}
 
 .modal-details p {
   margin: 0.8rem 0;
@@ -117,7 +104,6 @@
 }
 
 .modal-details strong {
-  color: var(--accent-primary);
   font-weight: 600;
 }
 
@@ -160,6 +146,6 @@
 }
 
 .contact-button:hover {
-  background: var(--accent-primary-hover);
-  box-shadow: 0 0 20px rgba(0, 212, 255, 0.4);
+  opacity: 0.9;
+  transform: translateY(-1px);
 }
